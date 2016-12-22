@@ -1,6 +1,6 @@
 +++
 chapter = true
-icon = "<b>X. </b>"
+icon = "<i class='fa fa-toggle-right'></i> "
 date = "2016-10-31T00:40:27-07:00"
 title = "The Commons"
 weight = 0
