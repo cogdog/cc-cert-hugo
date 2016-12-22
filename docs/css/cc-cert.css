@@ -9,6 +9,7 @@
   background-color: #222;
 }
 
+
 /* Background color of the menu, when clicked */
 #sidebar ul.topics > li.parent, #sidebar ul.topics > li.active {
   background-color: #666;
