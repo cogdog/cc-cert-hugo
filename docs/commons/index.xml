@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Commons-rsses on CC Core Certification</title>
-    <link>http://replace-this-with-your-hugo-site.com/commons/index.xml</link>
+    <link>https://cogdog.github.io/cc-cert-hugo/commons/index.xml</link>
     <description>Recent content in Commons-rsses on CC Core Certification</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 31 Oct 2016 00:40:27 -0700</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/commons/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cogdog.github.io/cc-cert-hugo/commons/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Commons</title>
-      <link>http://replace-this-with-your-hugo-site.com/commons/</link>
+      <link>https://cogdog.github.io/cc-cert-hugo/commons/</link>
       <pubDate>Mon, 31 Oct 2016 00:40:27 -0700</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/commons/</guid>
+      <guid>https://cogdog.github.io/cc-cert-hugo/commons/</guid>
       <description>
 
 &lt;h3 id=&#34;creative-commons-core-certificate&#34;&gt;Creative Commons Core Certificate&lt;/h3&gt;
@@ -27,10 +27,10 @@
     
     <item>
       <title>Significance of the Commons</title>
-      <link>http://replace-this-with-your-hugo-site.com/commons/significance/</link>
+      <link>https://cogdog.github.io/cc-cert-hugo/commons/significance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/commons/significance/</guid>
+      <guid>https://cogdog.github.io/cc-cert-hugo/commons/significance/</guid>
       <description>
 
 &lt;p&gt;What do Wikipedia and medieval English pasture lands have in common? (Hint: the answer is right there in the question.) And why should you care?&lt;/p&gt;
@@ -230,10 +230,10 @@ Informatics Professional) PDF by  &lt;a href=&#34;http://benkler.org&#34;&gt;Yoc
     
     <item>
       <title>CC Opportunity</title>
-      <link>http://replace-this-with-your-hugo-site.com/commons/opportunity/</link>
+      <link>https://cogdog.github.io/cc-cert-hugo/commons/opportunity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/commons/opportunity/</guid>
+      <guid>https://cogdog.github.io/cc-cert-hugo/commons/opportunity/</guid>
       <description>
 
 &lt;p&gt;Imagine a time in the new future in which all writing can be commercialized.&lt;/p&gt;
@@ -341,10 +341,10 @@ Informatics Professional) PDF by  &lt;a href=&#34;http://benkler.org&#34;&gt;Yoc
     
     <item>
       <title>Physical vs Digital Commons</title>
-      <link>http://replace-this-with-your-hugo-site.com/commons/physical-digital/</link>
+      <link>https://cogdog.github.io/cc-cert-hugo/commons/physical-digital/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/commons/physical-digital/</guid>
+      <guid>https://cogdog.github.io/cc-cert-hugo/commons/physical-digital/</guid>
       <description>
 
 &lt;p&gt;Imagine a time in the new future in which all writing can be commercialized.&lt;/p&gt;
@@ -452,10 +452,10 @@ Informatics Professional) PDF by  &lt;a href=&#34;http://benkler.org&#34;&gt;Yoc
     
     <item>
       <title>The Creative Commons Organization</title>
-      <link>http://replace-this-with-your-hugo-site.com/commons/creative-commons/</link>
+      <link>https://cogdog.github.io/cc-cert-hugo/commons/creative-commons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/commons/creative-commons/</guid>
+      <guid>https://cogdog.github.io/cc-cert-hugo/commons/creative-commons/</guid>
       <description>
 
 &lt;p&gt;What if there was a means for creators to express willingness to share their knowledge and creative works? A simple and standardized way creators could use to give the public permission to use their work under certain conditions?&lt;/p&gt;
