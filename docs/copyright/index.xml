@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Copyright-rsses on CC Core Certification</title>
+    <link>http://replace-this-with-your-hugo-site.com/copyright/index.xml</link>
+    <description>Recent content in Copyright-rsses on CC Core Certification</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Oct 2016 00:40:27 -0700</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/copyright/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Copyright Basics</title>
+      <link>http://replace-this-with-your-hugo-site.com/copyright/</link>
+      <pubDate>Mon, 31 Oct 2016 00:40:27 -0700</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/copyright/</guid>
+      <description>
+
+&lt;h3 id=&#34;creative-commons-core-certificate&#34;&gt;Creative Commons Core Certificate&lt;/h3&gt;
+
+&lt;h1 id=&#34;copyright-basics&#34;&gt;Copyright Basics&lt;/h1&gt;
+
+&lt;p&gt;Creative Commons free, easy-to-use, copyright licenses provide a simple, standardized way to give permissions to share and use creative work – under conditions the creator chooses.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

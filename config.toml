@@ -1,0 +1,7 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+title = "CC Core Certification"
+languageCode = "en-us"
+theme = "hugo-theme-learn"
+author = "Alan Levine"
+description = "Demo for CC Certification rendered via md"
+publishDir = "docs"
