@@ -6,45 +6,13 @@
     <description>Recent content on CC Core Certification</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Oct 2016 00:40:27 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 17 Apr 2017 15:52:19 -0700</lastBuildDate>
     <atom:link href="https://cogdog.github.io/cc-cert-hugo/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>The Commons</title>
-      <link>https://cogdog.github.io/cc-cert-hugo/commons/</link>
-      <pubDate>Mon, 31 Oct 2016 00:40:27 -0700</pubDate>
-      
-      <guid>https://cogdog.github.io/cc-cert-hugo/commons/</guid>
-      <description>
-
-&lt;h3 id=&#34;creative-commons-core-certificate&#34;&gt;Creative Commons Core Certificate&lt;/h3&gt;
-
-&lt;h1 id=&#34;the-commons&#34;&gt;The Commons&lt;/h1&gt;
-
-&lt;p&gt;The Commons has long played a historical role in making cultural and natural resources accessible to all members of a society.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Copyright Basics</title>
-      <link>https://cogdog.github.io/cc-cert-hugo/copyright/</link>
-      <pubDate>Mon, 31 Oct 2016 00:40:27 -0700</pubDate>
-      
-      <guid>https://cogdog.github.io/cc-cert-hugo/copyright/</guid>
-      <description>
-
-&lt;h3 id=&#34;creative-commons-core-certificate&#34;&gt;Creative Commons Core Certificate&lt;/h3&gt;
-
-&lt;h1 id=&#34;copyright-basics&#34;&gt;Copyright Basics&lt;/h1&gt;
-
-&lt;p&gt;Creative Commons free, easy-to-use, copyright licenses provide a simple, standardized way to give permissions to share and use creative work – under conditions the creator chooses.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Significance of the Commons</title>
       <link>https://cogdog.github.io/cc-cert-hugo/commons/significance/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Apr 2017 15:52:19 -0700</pubDate>
       
       <guid>https://cogdog.github.io/cc-cert-hugo/commons/significance/</guid>
       <description>
@@ -53,232 +21,270 @@
 
 &lt;h2 id=&#34;the-big-question&#34;&gt;The Big Question&lt;/h2&gt;
 
-&lt;p&gt;Both Wikipedia and medieval English pasture lands are examples of a Commons. &lt;a href=&#34;http://bollier.org/commons-short-and-sweet&#34;&gt;As economist David Bollier describes it&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Both Wikipedia and medieval English pasture lands are examples of a commons. &lt;a href=&#34;http://bollier.org/commons-short-and-sweet&#34;&gt;As economist David Bollier describes it&lt;/a&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;a Commons arises whenever a given community decides it wishes to manage a resource in a collective manner, with special regard for equitable access, use and sustainability”.&lt;/p&gt;
+&lt;p&gt;a commons arises whenever a given community decides it wishes to manage a resource in a collective manner, with special regard for equitable access, use and sustainability”.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Commons are everywhere - from modern web communities to ancient agrarian communities - and understanding what they are and how they function is key to understanding the world around us.&lt;/p&gt;
 
-&lt;p&gt;You probably participate in one or more Commons yourself - and by the time you finish this module you’ll be able to recognize a Commons you are part of, describe what makes it a Commons, and identify potential threats to the sustainability of your Commons.&lt;/p&gt;
+&lt;p&gt;You probably participate in one or more commons yourself - and by the time you finish this module you’ll be able to recognize a commons you are part of, describe what makes it a commons, and identify potential threats to the sustainability of your commons.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-map/img/core/pasture-wikipedia.jpg&#34; alt=&#34;&amp;quot;English Pasture and Wikipedia logo&#34; title=&#34;English Pasture and Wikipedia logo&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/pasture-wikipedia.jpg&#34; alt=&#34;&amp;quot;English Pasture and Wikipedia logo&#34; title=&#34;English Pasture and Wikipedia logo&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Composite of &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Plan_mediaeval_manor.jpg&#34;&gt;Fictional Medieval Manor&lt;/a&gt; dervivative Wikimedia Commons image by William R. Shepherd (1923) licensed under &lt;a href=&#34;https://en.wikipedia.org/wiki/public_domain&#34;&gt;Public Domain&lt;/a&gt; and   &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Wikipedia_Logo_1.0.png&#34;&gt;Wikipedia Logo 1.0&lt;/a&gt;  Wikimedia Commons image by &lt;a href=&#34;https://meta.wikimedia.org/wiki/User:Nohat&#34;&gt;Nohat&lt;/a&gt;  licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/3.0/&#34;&gt;CC-BY-SA&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Composite of &amp;ldquo;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Plan_mediaeval_manor.jpg&#34;&gt;Fictional Medieval Manor&lt;/a&gt;&amp;rdquo; dervivative Wikimedia Commons image by William R. Shepherd (1923) is shared into the &lt;a href=&#34;https://en.wikipedia.org/wiki/public_domain&#34;&gt;Public Domain&lt;/a&gt; and  &amp;ldquo;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Wikipedia_Logo_1.0.png&#34;&gt;Wikipedia Logo 1.0&lt;/a&gt;&amp;rdquo;  Wikimedia Commons image by &lt;a href=&#34;https://meta.wikimedia.org/wiki/User:Nohat&#34;&gt;Nohat&lt;/a&gt;  licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/3.0/&#34;&gt;CC-BY-SA&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;learning-outcomes&#34;&gt;Learning Outcomes&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Define the commons and its historical significance&lt;/li&gt;
 &lt;li&gt;Describe historical and ongoing enclosure of the commons&lt;/li&gt;
-&lt;li&gt;Specific threat to the commons via business models&lt;/li&gt;
-&lt;li&gt;Contrast Hardin’s theoretical “Tragedy of the Commons” to Ostrom’s findings on how communities self-govern commons in practice&lt;/li&gt;
 &lt;li&gt;Provide examples of common resources&lt;/li&gt;
-&lt;li&gt;Describe and provide examples of public goods&lt;/li&gt;
-&lt;li&gt;Describe culture as a form of Commons&lt;/li&gt;
-&lt;li&gt;Evaluate whether something should be in the commons&lt;/li&gt;
-&lt;li&gt;Contrast the closed status quo vs open&lt;/li&gt;
+&lt;li&gt;Describe culture as a form of commons&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;opening-questions&#34;&gt;Opening Questions&lt;/h2&gt;
 
-&lt;p&gt;What Commons are you a part of? Can you think of a group you belong to that collectively manages a resource in order to make sure that everyone will have ongoing access to the resource? What do you contribute to your Commons?&lt;/p&gt;
+&lt;p&gt;What commons are you a part of? Can you think of a group you belong to that collectively manages a resource in order to make sure that everyone will have ongoing access to the resource? What do you contribute to your commons?&lt;/p&gt;
 
-&lt;h2 id=&#34;what-is-the-commons&#34;&gt;What is The Commons?&lt;/h2&gt;
+&lt;h2 id=&#34;what-is-a-commons-and-why-is-it-important&#34;&gt;What is a commons, and why is it important?&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-map/img/core/the-commons.jpg&#34; alt=&#34;The Commons&#34; title=&#34;The Commons&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;a href=&#34;http://www.geograph.org.uk/photo/1257161&#34;&gt;The Commons Nature Reserve W.G.C&lt;/a&gt; Geograph photo by &lt;a href=&#34;http://www.geograph.org.uk/profile/20403&#34;&gt;Paul Shreeve&lt;/a&gt; licensed under &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/2.0/&#34;&gt;CC-BY-SA&lt;/a&gt; / cropped from original&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;To understand the commons, how the commons works and to understand some of the history of the commons, read and watch the following:&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=7bQiBcd7mBc&#34;&gt;How Does The Commons Work?&lt;/a&gt; YouTube video by &lt;a href=&#34;https://www.youtube.com/watch?v=7bQiBcd7mBc&#34;&gt;The Next System Project&lt;/a&gt; licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;CC-BY&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;How can we use &amp;ldquo;commoning&amp;rdquo; as a process to transform the social paradigm of our current system? In his paper for our &amp;ldquo;New Systems: Possibilities and Proposals&amp;rdquo; series exploring viable political-economic alternatives to the present order, economist David Bollier suggests we rethink the traditional &amp;ldquo;tragedy of the commons&amp;rdquo; argument, moving instead toward new and innovative ways to equitably manage shared resources.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=7bQiBcd7mBc&#34;&gt;https://www.youtube.com/watch?v=7bQiBcd7mBc&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://bollier.org/commons-short-and-sweet&#34;&gt;The Commons, Short and Sweet&lt;/a&gt; blog post by &lt;a href=&#34;http://bollier.org/&#34;&gt;David Bollier&lt;/a&gt; licensed under &lt;a href=&#34;http://creativecommons.org/licenses/by/3.0/us/&#34;&gt;CC-BY&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;I am always trying to figure out how to explain the idea of the commons to newcomers who find it hard to grasp.  In preparation for a talk that I gave at the Caux Forum for Human Security, near Montreux, Switzerland, I came up with a fairly short overview, which I have copied below.  I think it gets to the nub of things.&lt;/p&gt;
-
-&lt;p&gt;The commons is….&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;A social system for the long-term stewardship of resources that preserves shared values and community identity.&lt;/li&gt;
-&lt;li&gt;A self-organized system by which communities manage resources (both depletable and and replenishable) with minimal or no reliance on the Market or State.&lt;/li&gt;
-&lt;li&gt;The wealth that we inherit or create together and must pass on, undiminished or enhanced, to our children.  Our collective wealth includes the gifts of nature, civic infrastructure, cultural works and traditions, and knowledge.&lt;/li&gt;
-&lt;li&gt;A sector of the economy (and life!) that generates value in ways that are often taken for granted – and often jeopardized by the Market-State.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://bollier.org/commons-short-and-sweet&#34;&gt;Read more&amp;hellip; &lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=41Dr8Te1OwE&#34;&gt;Define the Commons - David Bollier, USA&lt;/a&gt; YouTube video by &lt;a href=&#34;https://www.youtube.com/channel/UChz4DMZKHYnAPVEjXduVFIA&#34;&gt;Remix The Commons&lt;/a&gt; licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;CC-BY&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;A definition of the &amp;ldquo;Commons&amp;rdquo; proposed by David Bollier, a member of the Commons Strategies Group (CSG), taken from an interview conducted by Alain Ambrosi, at the Economics and the Commons Conference  which took place in Berlin from 22 to 24 May 2013.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;For a brief introduction to the idea of a commons, watch these short videos&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=41Dr8Te1OwE&#34;&gt;https://www.youtube.com/watch?v=41Dr8Te1OwE&lt;/a&gt;&lt;/p&gt;
 
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;why-is-the-commons-important&#34;&gt;Why is the Commons Important?&lt;/h2&gt;
-
-&lt;p&gt;Now that we understand the Commons, let’s talk a little bit about why the commons is important.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;&lt;a href=&#34;https://www.youtube.com/watch?v=41Dr8Te1OwE&#34;&gt;Define the Commons&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://www.youtube.com/channel/UChz4DMZKHYnAPVEjXduVFIA&#34;&gt;Remix The Commons&lt;/a&gt; licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;CC-BY&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.benkler.org/Upgrade-Novatica%20Commons.pdf&#34;&gt;The Political Economy of Commons&lt;/a&gt; a published paper in UPGRADE (European Journal for the
-Informatics Professional) PDF by  &lt;a href=&#34;http://benkler.org&#34;&gt;Yochai Benkler&lt;/a&gt; licensed under &lt;a href=&#34;http://creativecommons.org/licenses/by/3.0/&#34;&gt;CC-BY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=7bQiBcd7mBc&#34;&gt;https://www.youtube.com/watch?v=7bQiBcd7mBc&lt;/a&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;Why Commons?&lt;/p&gt;
-
-&lt;p&gt;Commons are institutional spaces, in which we can practice a particular type of freedom – freedom from the constraints we normally accept as necessary preconditions to functional markets.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Though we often think of ‘free markets’ as spaces that enable free choice, in fact these are structured relationships intended to elicit a particular datum – the comparative willingness and ability of agents to pay money for resource.&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;The most important constraints under-girding markets are those we usually call property. Property is a cluster of background rules that determine&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;what resources each of us has when we come into relations with others&lt;/li&gt;
-&lt;li&gt;what ‘having’ or ‘lacking’ a resource allows us to do or refuse to do in relations surrounding resources. These rules impose constraints on who can do what in the domain of actions that require access to resources that are the subjects of property law.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;While a necessary precondition for markets, property law means that choice in markets is itself not free of constraints, but is instead constrained in a particular pattern&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Commons are institutional spaces where human agents can act free of the particular constraints required for markets.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;This does not mean that commons are anarchic spaces. Purely free action is illusory.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;It means that individuals and groups can use resources governed under different types of constraints than those imposed by property law. These constraints may be social, or physical, or regulatory. They may make individuals more or less free, in some aggregate sense, than do property rules. Whether a commons in fact enhances freedom or harms it then, depends on how the commons is structured, and on how property rights in the resource would have been structured in the absence of a commons.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://web.archive.org/web/20130617041302/http://www.boell.org/downloads/Benkler_The_Political_Economy_of_the_Commons.pdf&#34;&gt;Read more&amp;hellip; &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;&lt;a href=&#34;https://www.youtube.com/watch?v=7bQiBcd7mBc&#34;&gt;How Does the Commons Work?&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://www.youtube.com/channel/UC0Gw_ZWRG2eY_hPkAL7eNZg&#34;&gt;The Next System Project&lt;/a&gt; licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;CC-BY&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
+
+&lt;p&gt;Then read &lt;a href=&#34;http://bollier.org/commons-short-and-sweet&#34;&gt;The Commons, Short and Sweet&lt;/a&gt;  by &lt;a href=&#34;http://bollier.org/&#34;&gt;David Bollier&lt;/a&gt; for more detail about how commons work and why they are important.&lt;/p&gt;
+
+&lt;h2 id=&#34;enclosure-of-the-commons&#34;&gt;Enclosure of the Commons&lt;/h2&gt;
+
+&lt;p&gt;Many historic commons ended in enclosure, and enclosure continues to be the single largest threat to modern commons. For a review of historical enclosures of physical commons and modern attempts to enclose the commons of ideas and culture, read The Second Enclosure Movement.&lt;/p&gt;
 
 &lt;h2 id=&#34;what-is-enclosure&#34;&gt;What is Enclosure?&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-map/img/core/hedge-enclosure-boundary.jpg&#34; alt=&#34;Enclosure Boundary&#34; title=&#34;photo of Enclosure Boundary&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/hedge-enclosure-boundary.jpg&#34; alt=&#34;Enclosure Boundary&#34; title=&#34;photo of Enclosure Boundary&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;&lt;a href=&#34;http://www.geograph.org.uk/photo/1715089&#34;&gt;NZ0314 : Decaying hedge&lt;/a&gt; Geograph photo by &lt;a href=&#34;http://www.geograph.org.uk/profile/34816&#34;&gt;Andy Waddington&lt;/a&gt; licensed under &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/2.0/&#34;&gt;CC-BY-SA&lt;/a&gt; / cropped from original&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;&lt;a href=&#34;http://www.geograph.org.uk/photo/1715089&#34;&gt;NZ0314 : Decaying hedge&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;http://www.geograph.org.uk/profile/34816&#34;&gt;Andy Waddington&lt;/a&gt; licensed under &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/2.0/&#34;&gt;CC-BY-SA&lt;/a&gt; / cropped from original&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Like the idea of The Commons, the process of enclosure came too from the history of land ownership in England. Explore it&amp;rsquo;s history and ongoing occurrence from the definition in Wikipedia.&lt;/p&gt;
+&lt;p&gt;Many historic commons ended in enclosure, and enclosure continues to be the single largest threat to modern commons. For a review of historical enclosures of physical commons and modern attempts to enclose the commons of ideas and culture, read &lt;a href=&#34;http://boyle.yupnet.org/chapter-3-second-enclosure-movement/&#34;&gt;The Second Enclosure Movement&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://wikipedia.org/wiki/Enclosure&#34;&gt;Enclosure&lt;/a&gt; is a Wikipedia entry licensed under &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/3.0/&#34;&gt;CC-BY-SA&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;successfully-managing-a-commons&#34;&gt;Successfully Managing a Commons&lt;/h2&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;Enclosure (sometimes inclosure) was the legal process in England during the 18th century of enclosing a number of small landholdings to create one larger farm.  Once enclosed, use of the land became restricted to the owner, and it ceased to be common land for communal use. In England and Wales the term is also used for the process that ended the ancient system of arable farming in open fields. Under enclosure, such land is fenced (enclosed) and deeded or entitled to one or more owners. The process of enclosure began to be a widespread feature of the English agricultural landscape during the 16th century. By the 19th century, unenclosed commons had become largely restricted to rough pasture in mountainous areas and to relatively small parts of the lowlands.&lt;/p&gt;
+&lt;p&gt;It takes a lot of effort to sustain a thriving commons. Read Nobel Prize-winning commons scholar Elinor Ostrom&amp;rsquo;s &lt;a href=&#34;http://www.onthecommons.org/magazine/elinor-ostroms-8-principles-managing-commmons&#34;&gt;8 Principles for Managing a Commons&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Enclosure could be accomplished by buying the ground rights and all common rights to accomplish exclusive rights of use, which increased the value of the land. The other method was by passing laws causing or forcing enclosure, such as Parliamentary enclosure. The latter process of enclosure was sometimes accompanied by force, resistance, and bloodshed, and remains among the most controversial areas of agricultural and economic history in England. Marxist and neo-Marxist historians argue that rich landowners used their control of state processes to appropriate public land for their private benefit.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h2 id=&#34;application-of-learning&#34;&gt;Application of Learning&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://wikipedia.org/wiki/Enclosure&#34;&gt;Read more&amp;hellip;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;learner-toolkit&#34;&gt;Learner Toolkit&lt;/h3&gt;
 
-&lt;p&gt;To further understand enclosure as a concept, let’s take a look at the effects of enclosure upon the Commons. Listen to the audio at 5:00-7:47 from David Bollier&amp;rsquo;s podcast &lt;a href=&#34;http://bollier.org/week-4-history-commons-and-enclosure&#34;&gt;Week 4: The History of Commons and Enclosure&lt;/a&gt; for his  &amp;ldquo;The Commons Rising&amp;rdquo; course he taught at Amherst College in the Spring 2010 semester.&lt;/p&gt;
+&lt;p&gt;Select two or three resources directly relevant to your personal or work-related CC needs from the Acquiring Essential Knowledge content and add them to your personal Creative Commons toolkit. Adding them to your toolkit makes them easy to find and use when the need arises, and makes it easy for you to pass on resources you consider important to others. Annotate the resources with notes explaining why they are relevant and important for you and your work.&lt;/p&gt;
 
-&lt;h2 id=&#34;the-tragedy-of-the-commons&#34;&gt;The Tragedy of the Commons&lt;/h2&gt;
+&lt;h3 id=&#34;community-collaboration-appreciation-recognition-gratitude&#34;&gt;Community - Collaboration, Appreciation, Recognition, Gratitude&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-map/img/core/grazing.jpg&#34; alt=&#34;Grazing&#34; title=&#34;photo of a horse grazing&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Identify a commons you participate in - think about the nature of the resources shared in the commons, some of the people who participate in the commons, and some of the community’s norms about how to create, manage, and sustain the resources in the commons. How do you benefit from your participation in that commons? Express your gratitude or appreciation to others who participate in that commons.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://www.flickr.com/photos/pmarkham/3532783271&#34;&gt;Grazing&lt;/a&gt; flickr photo by &lt;a href=&#34;https://www.flickr.com/photos/pmarkham/&#34;&gt;Pete Marhham&lt;/a&gt; licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/2.0/&#34;&gt;CC-BY-SA&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;applied-practice&#34;&gt;Applied Practice&lt;/h3&gt;
 
-&lt;p&gt;Read about the sustainability of the commons under the section 3 &amp;ldquo;Are Commons Sustainable?&amp;rdquo; from Yochai Benkler&amp;rsquo;s &lt;em&gt;The Political Economy of Commons&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Complete the following activity in the Quest Bank:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.benkler.org/Upgrade-Novatica%20Commons.pdf&#34;&gt;The Political Economy of Commons&lt;/a&gt; a published paper in UPGRADE (European Journal for the Informatics Professional) PDF by  &lt;a href=&#34;http://benkler.org&#34;&gt;Yochai Benkler&lt;/a&gt; licensed under &lt;a href=&#34;http://creativecommons.org/licenses/by/3.0/&#34;&gt;CC-BY&lt;/a&gt; starting on page 7&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;In the late 1960s Garrett Hardin coined an immensely effective trope, &lt;em&gt;“the tragedy of the commons.”&lt;/em&gt; Originally aimed to explain why private incentives would lead to firms to pollute their environment even against their own long term interest, and thereby to justify pollution controls, the trope took on a life of its own. It came to stand for a proposition that all commons are tragic, and that property rights are a necessary precondition to efficient, or even sustainable, resource management. Over the past twenty years or so, we have seen the development of a literature that challenges this now-standard understanding of commons. Most crisply this effort has come to be crystallized in the work of Eleanor Ostrom. A recent review and bibliographic essay by Hess and Ostrom provides an excellent overview of this literature. The crux of most of this work is that there are certain circumstances under which common property regimes are sustainable, and quite possibly more efficient than individual property regimes.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.benkler.org/Upgrade-Novatica%20Commons.pdf&#34;&gt;Read more&amp;hellip;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://quests.creativecommons.org/assignments/ostroms-eight-principles&#34;&gt;Give an Example of One of Ostrom’s Eight Principles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;While very popular as a phrase, many have criticized &amp;ldquo;the tragedy of the commons&amp;rdquo; most notably Ian Angus, editor of Climate and Capitalism. In 2008 he published &lt;a href=&#34;http://mrzine.monthlyreview.org/2008/angus250808.html&#34;&gt;The Myth of the Tragedy of the Commons&lt;/a&gt; in the &lt;em&gt;Monthly Review.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/cc-by-sa-88x31.png&#34; alt=&#34;Creative Commons Attribution-ShareAlike license&#34; title=&#34;CC BY-SA&#34; /&gt;
+Licensed under a &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike license (CC BY-SA) version 4.0&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;As summarized in  &lt;a href=&#34;http://www.onthecommons.org/debunking-tragedy-commons&#34;&gt;Debunking the Tragedy of the Commons&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Except where otherwise noted, this content is published under a &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;CC BY-SA license&lt;/a&gt;, which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+License details: &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;https://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;Angus notes that Hardin offers no empirical evidence that herders actually overgraze their cattle on shared plots of land, let alone that this is the general rule for shared resources. He also notes that Hardin provides no evidence that private ownership necessarily manages a resource more responsibly; indeed, the “tragedy of the market” is a well-documented phenomenon. Angus also reviews briefly the political usefulness of the tragedy thesis, and its continued misuse in contemporary economics and policy.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Explore Angus&amp;rsquo;s arguments in &lt;a href=&#34;http://mrzine.monthlyreview.org/2008/angus250808.html&#34;&gt;The Myth of the Tragedy of the Commons&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;more-to-explore&#34;&gt;More to Explore&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://wealthofthecommons.org/contents&#34;&gt;The World of the Commons: Beyond Market and State&lt;/a&gt; book edited by &lt;a href=&#34;http://bollier.org/&#34;&gt;David Bollier&lt;/a&gt; and &lt;a href=&#34;http://commonsblog.de/&#34;&gt;Silke Helfrich&lt;/a&gt;  licensed under &lt;a href=&#34;http://creativecommons.org/licenses/by/3.0/us/&#34;&gt;CC-BY&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.molleindustria.org/en/freeculturegame/&#34;&gt;Free Culture Game&lt;/a&gt; online interactive game (requires Flash) created by &lt;a href=&#34;http://www.molleindustria.org/&#34;&gt;Molleindustria&lt;/a&gt; licensed under &lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US&#34;&gt;CC-BY-SA&lt;/a&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;your-quest-taking-on-the-big-question&#34;&gt;Your Quest: Taking on the Big Question&lt;/h2&gt;
-
-&lt;p&gt;We’re all familiar with the ideas of markets and governments, but we tend to be less familiar with the idea of a Commons.&lt;/p&gt;
-
-&lt;p&gt;However, once you understand what a Commons is and how it works you begin to see that they’re all around you - from online communities that develop open source software or open content to face to face communities that manage community gardens or bike co-ops. Commoning is a powerful, proven strategy for coming together to managing resources in a way that ensures that members of the community will continue to have access to the resources - without resorting to the potential abuses of markets and inefficiencies of governments.&lt;/p&gt;
-
-&lt;p&gt;Answer by completing this CC Quest:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;What&amp;rsquo;s Your Commons?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Identify a Commons you participate in and briefly describe the nature of the resources shared in that Commons, some of the people who participate in that Commons, and some of the community’s norms about how to create, manage, and sustain the resources in that Commons. How do you benefit from your participation in that Commons? What do you contribute to that Commons? &lt;a href=&#34;http://quests.creativecommons.org/&#34;&gt;Complete this Quest&lt;/a&gt; (link to be added).&lt;/p&gt;
-
-&lt;p&gt;Increase your CC Cred by &lt;a href=&#34;http://quests.creativecommons.org/&#34;&gt;doing additional quests&lt;/a&gt; (link to be added).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Creative Commons Certificates have been created with the kind support of &lt;a href=&#34;http://creativecommons.org/&#34;&gt;Creative Commons&lt;/a&gt;, the &lt;a href=&#34;https://www.imls.gov/&#34;&gt;Institute of Museum and Library Services&lt;/a&gt;, and the &lt;a href=&#34;http://www.gatesfoundation.org/&#34;&gt;Bill &amp;amp; Melinda Gates Foundation&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>CC Opportunity</title>
+      <title>Copyright Basics</title>
+      <link>https://cogdog.github.io/cc-cert-hugo/copyright/basics/</link>
+      <pubDate>Mon, 17 Apr 2017 15:45:18 -0700</pubDate>
+      
+      <guid>https://cogdog.github.io/cc-cert-hugo/copyright/basics/</guid>
+      <description>
+
+&lt;p&gt;Is copyright a bit fuzzy to you? Get some clarity by understanding it&amp;rsquo;s history and purpose.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/copyright-fuzzy.jpg&#34; alt=&#34;Fuzzy Copyright&#34; title=&#34;Fuzzy Copyright&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;ldquo;&lt;a href=&#34;https://www.flickr.com/photos/pugno_muliebriter/1384247192/&#34;&gt;Fuzzy Copyright&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://www.flickr.com/photos/pugno_muliebriter/&#34;&gt;Nancy Sims&lt;/a&gt; licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by-nc/2.0/&#34;&gt;CC BY-NC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-big-question&#34;&gt;The Big Question&lt;/h2&gt;
+
+&lt;p&gt;Generally speaking, people are willing to invest time and effort in projects that will benefit them in some way. Gardeners spend the spring and summer crawling in dirt and pulling weeds because they look forward to the reward of fresh vegetables to eat or sell in the fall. Authors spend months or years researching, writing, and editing because they look forward to the reward of enlightening or entertaining the public and earning income from the sales of their books.&lt;/p&gt;
+
+&lt;p&gt;The law makes it a crime for someone to sneak into the garden overnight and steal away the harvest the gardener has toiled for all summer long. Likewise, copyright laws make it a crime for someone to copy and sell an author’s book without their permission, denying them the income they labored to receive. Considered in this context, how do copyright laws promote the creation of things like books, movies, and songs?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/spices.jpg&#34; alt=&#34;herbs &amp;amp; spices that burn my tongue...&#34; title=&#34;herbs &amp;amp; spices that burn my tongue...&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;ldquo;&lt;a href=&#34;https://www.flickr.com/photos/erikpoehler/5467004374/&#34;&gt;herbs &amp;amp; spices that burn my tongue&amp;hellip;&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://www.flickr.com/photos/erikpoehler/&#34;&gt;Erik Pöhler&lt;/a&gt; licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/2.0/&#34;&gt;CC BY&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;learning-outcomes&#34;&gt;Learning Outcomes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Trace basic history of copyright&lt;/li&gt;
+&lt;li&gt;Explain copyright purpose&lt;/li&gt;
+&lt;li&gt;Understand copyright is automatic&lt;/li&gt;
+&lt;li&gt;Explain general copyright terms&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;personal-reflection-why-it-matters-to-you&#34;&gt;Personal Reflection / Why It Matters to You&lt;/h2&gt;
+
+&lt;p&gt;Think back to a time that you invested significant effort in a project outside of work. What was your motivation for doing so?&lt;/p&gt;
+
+&lt;h2 id=&#34;acquiring-essential-knowledge&#34;&gt;Acquiring Essential Knowledge&lt;/h2&gt;
+
+&lt;h3 id=&#34;history-of-copyright&#34;&gt;History of Copyright&lt;/h3&gt;
+
+&lt;p&gt;Copyright is so ubiquitous that it’s easy to believe that it’s a law of nature, like gravity. However, copyright is a relatively recent social invention, as you can learn by reading the introduction to this &lt;a href=&#34;https://en.wikipedia.org/wiki/History_of_copyright_law0&#34;&gt;History of Copyright&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;purpose-of-copyright&#34;&gt;Purpose of Copyright&lt;/h3&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://www.lib.umn.edu/copyright/purpose&#34;&gt;purpose of copyright&lt;/a&gt; depends on who you ask - or, more specifically, the jurisdiction in which they live. In some jurisdictions the purpose of copyright is to provide financial incentives to would-be creators to create. In other jurisdictions, the purpose of copyright is to recognize and protect the natural connection between a creator and her works.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-types-of-works-protected-by-copyright&#34;&gt;The Types of Works Protected by Copyright&lt;/h3&gt;
+
+&lt;p&gt;Copyright protects a broad range of creative works. For a thorough listing of the kinds of things protected by copyright, see [What is Protected?](&lt;a href=&#34;http://smartcopying.edu.au/copyright-guidelines/copyright---a-general-overview/1-3-what-is-protected-(types-of-works&#34;&gt;http://smartcopying.edu.au/copyright-guidelines/copyright---a-general-overview/1-3-what-is-protected-(types-of-works&lt;/a&gt;). In the over 160 nations that have adopted the &lt;a href=&#34;https://en.wikipedia.org/wiki/Berne_Convention&#34;&gt;Berne Convention&lt;/a&gt;, all the works protectable by copyright are automatically copyrighted from the moment they are created, eliminating the need to register or place a notice on a work in order to receive copyright protection.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-copyright-restricts&#34;&gt;What Copyright Restricts&lt;/h3&gt;
+
+&lt;p&gt;Copyright reserves several exclusive rights to the copyright holder, including the rights to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;make copies of the work&lt;/li&gt;
+&lt;li&gt;distribute copies of the work&lt;/li&gt;
+&lt;li&gt;create derivative works&lt;/li&gt;
+&lt;li&gt;publicly display or perform the work&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The copyright holder can license or permanently assign these rights to others.&lt;/p&gt;
+
+&lt;h2 id=&#34;application-of-learning&#34;&gt;Application of Learning&lt;/h2&gt;
+
+&lt;h3 id=&#34;learner-toolkit&#34;&gt;Learner Toolkit&lt;/h3&gt;
+
+&lt;p&gt;Select two or three resources directly relevant to your personal or work-related CC needs from the Acquiring Essential Knowledge content and add them to your personal Creative Commons toolkit. Adding them to your toolkit makes them easy to find and use when the need arises, and makes it easy for you to pass on resources you consider important to others. Annotate the resources with notes explaining why they are relevant and important for you and your work.&lt;/p&gt;
+
+&lt;h3 id=&#34;community-collaboration-appreciation-recognition-gratitude&#34;&gt;Community - Collaboration, Appreciation, Recognition, Gratitude&lt;/h3&gt;
+
+&lt;p&gt;Share your feelings about the purpose of copyright in the CC Certificate social forum. Is the purpose of copyright to promote creativity, or is copyright a recognition of a deeper “natural” connection between the creator and the created? Many people have a difficult time understanding or relating to the view they did not grow up with. Can you help your peers develop a deeper appreciation of your culture’s view of copyright?&lt;/p&gt;
+
+&lt;h3 id=&#34;applied-practice&#34;&gt;Applied Practice&lt;/h3&gt;
+
+&lt;p&gt;Complete the following activity in the Quest Bank:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://quests.creativecommons.org/assignments/how-does-copyright&#34;&gt;How Does Copyright Encourage Creativity?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/cc-by-sa-88x31.png&#34; alt=&#34;Creative Commons Attribution-ShareAlike license&#34; title=&#34;CC BY-SA&#34; /&gt;
+Licensed under a &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike license (CC BY-SA) version 4.0&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Except where otherwise noted, this content is published under a &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;CC BY-SA license&lt;/a&gt;, which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+License details: &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;https://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Creative Commons Certificates have been created with the kind support of &lt;a href=&#34;http://creativecommons.org/&#34;&gt;Creative Commons&lt;/a&gt;, the &lt;a href=&#34;https://www.imls.gov/&#34;&gt;Institute of Museum and Library Services&lt;/a&gt;, and the &lt;a href=&#34;http://www.gatesfoundation.org/&#34;&gt;Bill &amp;amp; Melinda Gates Foundation&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      <link>https://cogdog.github.io/cc-cert-hugo/about/details/</link>
+      <pubDate>Mon, 17 Apr 2017 15:19:45 -0700</pubDate>
+      
+      <guid>https://cogdog.github.io/cc-cert-hugo/about/details/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/MagnetizedObject.jpg&#34; alt=&#34;Magnetized Object&#34; title=&#34;Magnetized Object&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;ldquo;&lt;a href=&#34;https://flic.kr/p/6wYoR8&#34;&gt;Most Magnetized Object in the Universe&lt;/a&gt; &amp;ldquo;by &lt;a href=&#34;https://www.flickr.com/photos/gsfc/&#34;&gt;NASA Goddard Space Flight Center&lt;/a&gt; licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/2.0/&#34;&gt;CC BY&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;why-needed&#34;&gt;Why Needed?&lt;/h2&gt;
+
+&lt;p&gt;Since its launch in 2001 use of Creative Commons around the world has grown dramatically to the point where in 2015 there were over 1 billion Creative Commons licensed works. Writers, photographers, musicians and other creators use Creative Commons to share works and gain an audience. Cultural organizations including galleries, libraries, archives, and museums use Creative Commons to make their collections accessible to all. Use has broadened out further to include Open Educational Resources, Open Access research publishing, open data, and open science. Governments, non-profit organizations, and businesses around the world are adopting open policies and open strategies that use Creative Commons and the Internet to share and distribute resources to drive a new era of development, growth, and productivity.&lt;/p&gt;
+
+&lt;p&gt;With this growth comes a corresponding need to ensure creators, staff, and organizations have a thorough working knowledge of what Creative Commons is and how it works.&lt;/p&gt;
+
+&lt;p&gt;The Creative Commons CORE certificate covers the full breadth and depth of learning associated with acquiring comprehensive knowledge about all aspects of Creative Commons. CORE covers a composite set of knowledge and skills associated with responsibilities across multiple roles including practitioners, administrators, and leaders. In addition to being its own standalone certificate, CORE is foundational curricula from which specialized Creative Commons certificates are built. Creative Commons certificates for librarians, educators, and government start with a subset of CORE as foundation, on top of which specialized learning is added specific to how each profession uses Creative Commons.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/Foundations.jpg&#34; alt=&#34;Foundations&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;ldquo;&lt;a href=&#34;https://flic.kr/p/8Tbb1W&#34;&gt;Foundations&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://www.flickr.com/photos/sapheron/&#34;&gt;Gregory Bodnar&lt;/a&gt; is licensed &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/2.0/&#34;&gt;CC BY-SA&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;who-is-this-for&#34;&gt;Who is this for?&lt;/h2&gt;
+
+&lt;p&gt;The Creative Commons CORE Certificate is for those who need deep and comprehensive knowledge of Creative Commons including individuals and organizations wanting to become authorized to deliver Creative Commons certificate training.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-skills-and-knowledge-will-you-gain&#34;&gt;What skills and knowledge will you gain?&lt;/h2&gt;
+
+&lt;p&gt;On completion of the certificate you will be able to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;explain relationship of Creative Commons to the public domain, copyright, and the commons&lt;/li&gt;
+&lt;li&gt;state the benefits of Creative Commons licenses&lt;/li&gt;
+&lt;li&gt;effectively use Creative Commons to make resources open and shareable&lt;/li&gt;
+&lt;li&gt;find and use Creative Commons licensed resources&lt;/li&gt;
+&lt;li&gt;advise on strategic use of Creative Commons&lt;/li&gt;
+&lt;li&gt;provide Creative Commons related training and support services&lt;/li&gt;
+&lt;li&gt;plan and advocate for institutional systematic changes towards openness&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;how-does-it-work-what-will-i-learn&#34;&gt;How does it work? What will I learn?&lt;/h2&gt;
+
+&lt;p&gt;Learn more &lt;a href=&#34;../details/index.md&#34;&gt;about the delivery format and process&lt;/a&gt; or &lt;a href=&#34;../contents/index.md&#34;&gt;explore the modules and units&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/cc-by-sa-88x31.png&#34; alt=&#34;Creative Commons Attribution-ShareAlike license&#34; title=&#34;CC BY-SA&#34; /&gt;
+Licensed under a &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike license (CC BY-SA) version 4.0&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Except where otherwise noted, this content is published under a &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;CC BY-SA license&lt;/a&gt;, which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+License details: &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;https://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Creative Commons Certificates have been created with the kind support of &lt;a href=&#34;http://creativecommons.org/&#34;&gt;Creative Commons&lt;/a&gt;, the &lt;a href=&#34;https://www.imls.gov/&#34;&gt;Institute of Museum and Library Services&lt;/a&gt;, and the &lt;a href=&#34;http://www.gatesfoundation.org/&#34;&gt;Bill &amp;amp; Melinda Gates Foundation&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Commons Opportunity</title>
       <link>https://cogdog.github.io/cc-cert-hugo/commons/opportunity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Apr 2017 15:52:33 -0700</pubDate>
       
       <guid>https://cogdog.github.io/cc-cert-hugo/commons/opportunity/</guid>
       <description>
 
-&lt;p&gt;Imagine a time in the new future in which all writing can be commercialized.&lt;/p&gt;
+&lt;p&gt;Imagine a world that anticipates the commercialization of all creative works - a world in which a three year old child’s wobbly crayon drawing would be protected to the same degree as Star Wars or Harry Potter.&lt;/p&gt;
 
 &lt;h2 id=&#34;the-big-question&#34;&gt;The Big Question&lt;/h2&gt;
 
-&lt;p&gt;Through the magic of a new technology which can automatically capture and upload them to a website, every napkin doodle, every journal entry, and every love letter can be made available for sale as soon as you finish writing them. By means of improvements to operating systems like Windows, Mac, and Linux, all written documents like emails, homework assignments, and office memos can be automatically posted for sale on the site as soon as they are saved.&lt;/p&gt;
+&lt;p&gt;After joining the &lt;a href=&#34;https://en.wikipedia.org/wiki/Berne_Convention&#34;&gt;Berne Convention&lt;/a&gt; most countries in the world now automatically apply copyright - the legal protections necessary to effectively commercialize a creative work - to each and every  work the moment it is created. All creations are copyrighted, regardless of how personal or public they are. This is not a hypothetical future you have to imagine, it’s the actual state of affairs in the world today.&lt;/p&gt;
 
-&lt;p&gt;An upgrade to the technology might help users automatically offer all images they create for sale, from mobile phone photos to crayon drawings to watercolor paintings. Future versions of the technology might provide the same functionality for videos and sound recordings.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/commons/copyright-iain.jpg&#34; alt=&#34;Copyright Iain&#34; title=&#34;Copyright Iain&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-map/img/core/future-scanner.jpg&#34; alt=&#34;Technology Infographics Computer&#34; title=&#34;graphic of futuristic computer interface&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;&lt;a href=&#34;https://www.flickr.com/photos/iain/4804390638/&#34;&gt;Copyright Iain&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://www.flickr.com/photos/iain/&#34;&gt;Iain Farrell&lt;/a&gt; licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by-nd/2.0/&#34;&gt;CC BY-ND&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://pixabay.com/en/technology-informatics-computers-298256/&#34;&gt;Technology-298256&lt;/a&gt; Pixabay image by &lt;a href=&#34;https://pixabay.com/en/users/andrelyra-201440/&#34;&gt;andreleya&lt;/a&gt; licensed under &lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/&#34;&gt;CC0&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This situation is utterly preposterous for many reasons, but one important reason is that many people create things with the goal of sharing them with others. What if a creator doesn’t want their work “protected” from copying and distribution, but wants to see it copied and shared as far and wide as technologically possible?  For example, what if I’ve written a simple tutorial for purifying water after a natural disaster that I want everyone to have access to? When the law automatically copyrights my tutorial as if it were a major motion picture, how can I share it with others?&lt;/p&gt;
 
-&lt;p&gt;Now imagine that when this final version of the software is released, the national government requires all citizens to install it on all their devices, mandating the commercialization of every creative work that will ever be produced in the future, regardless of how trivial - or personal - it is.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;There are a thousand things wrong with this scenario&lt;/strong&gt;. And while the technology sounds fantastic and distant, the legal foundation of this dystopian future is already in place. After joining the &lt;a href=&#34;https://wikipedia.org/wiki/Berne_Convention&#34;&gt;Berne Convention&lt;/a&gt;, most countries in the world now automatically apply copyright - the legal protections necessary to effectively commercialize a creative work - to each and every creative work the moment it is created, regardless of how personal or trivial it is. In this worldview that anticipates the commercialization of all creative works, a three year old child’s wobbly pencil drawing is protected to the same degree as Star Wars or Harry Potter. And this is not a hypothetical future scenario, it’s the actual state of affairs in the world today.&lt;/p&gt;
-
-&lt;p&gt;This situation is utterly preposterous for many reasons, but one important reason is that many people create things with the goal of sharing them with others, like directions for purifying water after a natural disaster. What if a creator doesn’t want their work “protected” from copying and distribution, but wants it copied and shared as far and wide as technologically possible?&lt;/p&gt;
-
-&lt;p&gt;Return to our imaginary scenario for a moment.&lt;/p&gt;
-
-&lt;p&gt;What if, recognizing the public backlash, a second technology company created a tool that allowed a person to remove things from the website that commercialized all creative work? While it wouldn’t be able to prevent things from being placed on the site for sale automatically (as the law required), it would provide people with an easy - and legal - way to remove things from the site that they didn’t want to commercialize.&lt;/p&gt;
-
-&lt;p&gt;Returning to the real world, this is essentially what an open license does. Open licenses are easy to use legal tools - copyright licenses - that allow people to choose to share their work with others under a range of conditions. Rather than being forced to accept the default All Rights Reserved “protection” the law automatically forces on each and every creative work, a creator or author can choose to apply an open license license to their work, thereby allowing it to be copied and shared widely and legally. Many open licenses also grant permission to make changes and improvements to the work, like translating the document about purifying water into other languages. By applying an open license to their creation, an author places that work in a broader commons of creative works.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-map/img/core/image-placeholder.png&#34; alt=&#34;lead image&#34; title=&#34;Lead Image&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;a href=&#34;http://image.link&#34;&gt;Image Title&lt;/a&gt; site photo by &lt;a href=&#34;http://person.link&#34;&gt;Person Name&lt;/a&gt;  is licensed under &lt;a href=&#34;http://creativecommons/org/licenselink&#34;&gt;CC-XX&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This is what open licenses were created to do. Open licenses are easy to use legal tools - copyright licenses - that allow people to share their work with others under a range of conditions. Rather than being forced to accept the default All Rights Reserved “protection” the law automatically forces on each and every creative work, a creator or author can choose to apply an open license license to their work. This allows the work to be copied and shared widely and legally. Many open licenses also grant permission to make changes and improvements to the work, like translating the tutorial about purifying water into other languages. By applying an open license to their creation, an author places that work within a broader commons of creative works.&lt;/p&gt;
 
 &lt;h2 id=&#34;learning-outcomes&#34;&gt;Learning Outcomes&lt;/h2&gt;
 
@@ -288,204 +294,547 @@ Informatics Professional) PDF by  &lt;a href=&#34;http://benkler.org&#34;&gt;Yoc
 &lt;li&gt;Explain potentials, uses of open licensing, value of sharing as a default&lt;/li&gt;
 &lt;li&gt;Analyze the reasons for open licensing in your context&lt;/li&gt;
 &lt;li&gt;Define opportunities / benefits of collaborative peer production&lt;/li&gt;
-&lt;li&gt;Demonstrate benefits of access to knowledge&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;opening-questions&#34;&gt;Opening Questions&lt;/h2&gt;
+&lt;h2 id=&#34;personal-reflection-why-it-matters-to-you&#34;&gt;Personal Reflection / Why It Matters to You&lt;/h2&gt;
 
-&lt;p&gt;Should all writing, images, videos, sound recordings, and other creative works be automatically protected by copyright so they can be commercialized? Think of all the things you create every day - emails, photos, videos, and more. You may have authored a million or more creative works over your lifetime. Even if you are a creative professional and earn your livelihood by selling creative works, over 99.999% of what you have created has rightly gone uncommercialized. What might be the benefit of sharing some of these works with colleagues, peers, other organizations, or “the community”? How might your work be improved upon if you gave others permission to make improvements?&lt;/p&gt;
+&lt;p&gt;Should all writing, images, videos, sound recordings, and other creative works be automatically protected by copyright? Think of all the things you create every day - emails, photos, videos, and more. You may have authored a million or more creative works over your lifetime. Even if you are a creative professional and earn your livelihood by selling creative works, over 99.999% of what you have created has rightly gone uncommercialized. What might be the benefit of sharing some of these works with others be? What might be the benefit of placing some of these resources in the commons?&lt;/p&gt;
 
-&lt;h2 id=&#34;what-is-it&#34;&gt;What is It?&lt;/h2&gt;
+&lt;h2 id=&#34;acquiring-essential-knowledge&#34;&gt;Acquiring Essential Knowledge&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-map/img/core/image-placeholder.png&#34; alt=&#34;Nice image&#34; title=&#34;Nice Image&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;creative-commons-as-an-alternative-to-all-rights-reserved&#34;&gt;Creative Commons as an Alternative to All Rights Reserved&lt;/h3&gt;
 
-&lt;p&gt;&lt;em&gt;&lt;a href=&#34;http://image.link&#34;&gt;Image Title&lt;/a&gt; site photo by &lt;a href=&#34;http://person.link&#34;&gt;Person Name&lt;/a&gt;  is licensed under &lt;a href=&#34;http://creativecommons/org/licenselink&#34;&gt;CC-XX&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Traditional approaches to copyright reserve all the rights associated with a work - including the rights to copy, alter, and distribute a work - for the copyright holder exclusively. Creative Commons enables a “some rights reserved” approach, allowing authors and creators to give others permission to engage in these activities under certain conditions as explained in this &lt;a href=&#34;http://iptla.byu.edu/courses/copyright_crash_course_for_teachers/open_licensing&#34;&gt;BYU Crash Course on Open Licensing&lt;/a&gt;.&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;h3 id=&#34;the-spectrum-between-all-rights-reserved-and-the-public-domain&#34;&gt;The Spectrum Between All Rights Reserved and the Public Domain&lt;/h3&gt;
 
-&lt;h2 id=&#34;another-section&#34;&gt;Another Section&lt;/h2&gt;
+&lt;p&gt;Creative Commons licenses exist along a continuum from the public domain (no rights reserved) to traditional copyright (all rights reserved) as illustrated below.&lt;/p&gt;
 
-&lt;p&gt;Now that we understand it, let’s talk a little bit about why it is important.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/commons/cc-license-spectrum.png&#34; alt=&#34;Creative commons license spectrum&#34; title=&#34;Creative commons license spectrum&#34; /&gt;&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Creative_commons_license_spectrum.svg&#34;&gt;Creative commons license spectrum&lt;/a&gt; by &lt;a href=&#34;https://creativecommons.org/&#34;&gt;Creative Commons&lt;/a&gt; licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/deed.en&#34;&gt;CC BY&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;h3 id=&#34;the-benefits-of-sharing&#34;&gt;The Benefits of Sharing&lt;/h3&gt;
 
-&lt;h2 id=&#34;another-section-1&#34;&gt;Another Section&lt;/h2&gt;
+&lt;p&gt;Why would anyone want to share the creations in which they’ve invested so much time and effort? Ryan Merkley, CEO of Creative Commons, explains many of the reasons in a short video:&lt;/p&gt;
 
-&lt;p&gt;Now that we understand it, let’s talk a little bit about why it is important.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://vimeo.com/151666798&#34;&gt;https://vimeo.com/151666798&lt;/a&gt;&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;&lt;a href=&#34;https://vimeo.com/151666798&#34;&gt;Creative Commons: Remix&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://vimeo.com/creativecommonsvideos&#34;&gt;Creative Commons&lt;/a&gt; is licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/3.0&#34;&gt;CC BY-SA&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;Also &lt;a href=&#34;http://creativecommons.org.au&#34;&gt;Creative Commons Australia&lt;/a&gt; provides a more comprehensive list of of the &lt;a href=&#34;http://creativecommons.org.au/content/Benefits_of_CC_08.pdf&#34;&gt;Benefits of Sharing Using Creative Commons&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2 id=&#34;another-section-2&#34;&gt;Another Section&lt;/h2&gt;
+&lt;h3 id=&#34;the-benefits-of-commons-based-peer-production&#34;&gt;The Benefits of Commons-based Peer Production&lt;/h3&gt;
 
-&lt;p&gt;Now that we understand it, let’s talk a little bit about why it is important.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Commons-based_peer_production&#34;&gt;Commons-based peer production&lt;/a&gt; is a new way of producing creative and other works. In commons-based peer production, large numbers of people voluntarily self-organize to produce and provide ongoing stewardship of resources that are made broadly available. Commons-based peer production differs from traditional production models which are typically based on centralized planning and management, paid employees, and restricted access to final products.&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;h2 id=&#34;application-of-learning&#34;&gt;Application of Learning&lt;/h2&gt;
 
-&lt;h2 id=&#34;more-to-explore&#34;&gt;More to Explore&lt;/h2&gt;
+&lt;h3 id=&#34;learner-toolkit&#34;&gt;Learner Toolkit&lt;/h3&gt;
+
+&lt;p&gt;Select two or three resources directly relevant to your personal or work-related CC needs from the Acquiring Essential Knowledge content and add them to your personal Creative Commons toolkit. Adding them to your toolkit makes them easy to find and use when the need arises, and makes it easy for you to pass on resources you consider important to others. Annotate the resources with notes explaining why they are relevant and important for you and your work.&lt;/p&gt;
+
+&lt;h3 id=&#34;community-collaboration-appreciation-recognition-gratitude&#34;&gt;Community - Collaboration, Appreciation, Recognition, Gratitude&lt;/h3&gt;
+
+&lt;p&gt;Post a story about how you benefited from someone who chose to share their creative works under a Creative Commons license in the CC Certificate social forum. Alternatively, share a description of (and link to, if applicable) a community that engages in commons-based peer production that others might not be aware of.&lt;/p&gt;
+
+&lt;h3 id=&#34;applied-practice&#34;&gt;Applied Practice&lt;/h3&gt;
+
+&lt;p&gt;Complete the following activity in the Quest Bank:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Commons-based_peer_production&#34;&gt;Commons-based peer production&lt;/a&gt; is a Wikipedia entry licensed under &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/3.0/&#34;&gt;CC-BY-SA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.nyu.edu/projects/nissenbaum/papers/jopp_235.pdf&#34;&gt;Commons-based Peer Production and Virtue&lt;/a&gt; published paper  by &lt;a href=&#34;http://benkler.org&#34;&gt;Yochai Benkler&lt;/a&gt; and &lt;a href=&#34;http://www.nyu.edu/projects/nissenbaum/&#34;&gt;Helen Nissenbaum&lt;/a&gt; from &lt;em&gt;The Journal of Political Philosophy&lt;/em&gt;: Volume 14, Number 4, 2006, pp. 394–419.
-
-
-&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://quests.creativecommons.org/assignments/how-do-we-benefit&#34;&gt;How Do We Benefit? Let Me Count the Ways&amp;hellip;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;your-quest-taking-on-the-big-question&#34;&gt;Your Quest: Taking on the Big Question&lt;/h2&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;Blah blah blah&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/cc-by-sa-88x31.png&#34; alt=&#34;Creative Commons Attribution-ShareAlike license&#34; title=&#34;CC BY-SA&#34; /&gt;
+Licensed under a &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike license (CC BY-SA) version 4.0&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Answer by completing this CC Quest:&lt;/p&gt;
+&lt;p&gt;Except where otherwise noted, this content is published under a &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;CC BY-SA license&lt;/a&gt;, which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+License details: &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;https://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;What&amp;rsquo;s the Opportunity of the Commons?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Creative Commons Certificates have been created with the kind support of &lt;a href=&#34;http://creativecommons.org/&#34;&gt;Creative Commons&lt;/a&gt;, the &lt;a href=&#34;https://www.imls.gov/&#34;&gt;Institute of Museum and Library Services&lt;/a&gt;, and the &lt;a href=&#34;http://www.gatesfoundation.org/&#34;&gt;Bill &amp;amp; Melinda Gates Foundation&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Copyright vs Other Intellectual Property</title>
+      <link>https://cogdog.github.io/cc-cert-hugo/copyright/other-ip/</link>
+      <pubDate>Mon, 17 Apr 2017 15:46:34 -0700</pubDate>
+      
+      <guid>https://cogdog.github.io/cc-cert-hugo/copyright/other-ip/</guid>
+      <description>
 
-&lt;p&gt;Select a resource that you have created. Along with sharing the resource, share an evaluation of the opportunities and benefits that could come from sharing this resource with peers (reach, critique, collaborative peer production).&lt;/p&gt;
+&lt;p&gt;How does copyright differ from intellectual property (IP) rights of trademark, patents,and trade secrets?&lt;/p&gt;
 
-&lt;p&gt;Share a resource you own the copyright for and make a call for collaborative peer production/improvement of the material.&lt;/p&gt;
+&lt;h2 id=&#34;the-big-question&#34;&gt;The Big Question&lt;/h2&gt;
 
-&lt;p&gt;Find a resource and locate the copyright on the resource. Share the steps it would take to contact the copyright holder to use their work. This will help demonstrate an understanding of how much easier it is to use and share a CC licensed work.&lt;/p&gt;
+&lt;p&gt;When you buy a Coca-Cola, you expect it to taste like every other Coca-Cola you have bought in the past. Have you ever stopped to wonder why that’s true?&lt;/p&gt;
 
-&lt;p&gt;Quest description &lt;a href=&#34;http://quests.creativecommons.org/&#34;&gt;Complete this Quest&lt;/a&gt; (link to be added).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/copyright/coca-cola.jpg&#34; alt=&#34;Coca Cola (1944 x 1296)&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Increase your CC Cred by &lt;a href=&#34;http://quests.creativecommons.org/&#34;&gt;doing additional quests&lt;/a&gt; (link to be added).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;&lt;a href=&#34;https://www.flickr.com/photos/astanita/5102794371/&#34;&gt;Coca Cola (1944 x 1296)&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://www.flickr.com/photos/astanita/&#34;&gt;Asta Adamonyte&lt;/a&gt; licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/2.0/&#34;&gt;CC BY&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Given Coca-Cola’s worldwide popularity, why don’t other companies make soft drinks that they also call Coca-Cola and package in red and silver cans? That would let them sell their drinks very inexpensively, because they wouldn’t need to invest in marketing - the original Coca-Cola would do be doing that for them. While this sounds like a great opportunity for an unscrupulous business, it sounds like a disaster for a thirsty person who will be unpleasantly surprised when her Coke tastes different than she expected.&lt;/p&gt;
+
+&lt;p&gt;The reason “fake” Coca-Cola doesn’t exist is that copyright isn’t the only form of intellectual property protected by law. The law also protects trademarks and patents. Trade secrets can be legally protected, too.&lt;/p&gt;
+
+&lt;h2 id=&#34;learning-outcomes&#34;&gt;Learning Outcomes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Differentiate between copyright and patent&lt;/li&gt;
+&lt;li&gt;Differentiate between copyright and trademark&lt;/li&gt;
+&lt;li&gt;Differentiate between copyright and trade secret&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;personal-reflection-why-it-matters-to-you&#34;&gt;Personal Reflection / Why It Matters to You&lt;/h2&gt;
+
+&lt;p&gt;What types of intellectual work do you do? Do you create original expressions? Have you established a reputation in your community or field of practice, or area of employment? Do you invent things - maybe small, but useful things? Why is it important to you to have some control over your creations, reputation, or inventions?&lt;/p&gt;
+
+&lt;h2 id=&#34;acquiring-essential-knowledge&#34;&gt;Acquiring Essential Knowledge&lt;/h2&gt;
+
+&lt;h3 id=&#34;differentiating-between-copyrights-trademarks-patents-and-trade-secrets&#34;&gt;Differentiating Between Copyrights, Trademarks, Patents, and Trade Secrets&lt;/h3&gt;
+
+&lt;p&gt;Intellectual property law protects creations of the mind (hence the name intellectual property). For a brief introduction to the different forms of intellectual property, watch the short video &lt;a href=&#34;https://www.youtube.com/watch?v=IVYAOy466vs&#34;&gt;Trademarks, Patents and Copyrights - What&amp;rsquo;s the Difference?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=IVYAOy466vs&#34;&gt;https://www.youtube.com/watch?v=IVYAOy466vs&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=IVYAOy466vs&#34;&gt;Trademarks, Patents and Copyrights - What&amp;rsquo;s the Difference?&lt;/a&gt; by &lt;a href=&#34;https://www.youtube.com/channel/UCo_2dUaT4k5dJYyzyzCnJkQ&#34;&gt;TheTrademakGroup&lt;/a&gt; is licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/3.0&#34;&gt;CC BY&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;As with copyright, other forms of intellectual property like trademarks, patents, and trade secrets are protected by law. Copyrights protect creative expressions like novels, songs, and movies.&lt;/p&gt;
+
+&lt;p&gt;Trademarks protect designs or expressions that identify a product as coming from a specific source (things like the &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Coca-Cola_logo.svg&#34;&gt;red and white Coca-Cola logo&lt;/a&gt; or &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:The_Golden_Arches_(2495820931).jpg&#34;&gt;McDonald’s Golden Arches&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Patents protect inventions like mouse traps and Global Positioning Systems (GPS). Trade secrets, economically advantageous information not known to the general public, are protected by mechanisms like non-disclosure agreements.&lt;/p&gt;
+
+&lt;p&gt;For additional information on each form of intellectual property, see these detailed articles on &lt;a href=&#34;https://en.wikipedia.org/wiki/Trademark&#34;&gt;trademarks&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Patent&#34;&gt;patents&lt;/a&gt;, and &lt;a href=&#34;https://en.wikipedia.org/wiki/Trade_secret&#34;&gt;trade secrets&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;application-of-learning&#34;&gt;Application of Learning&lt;/h2&gt;
+
+&lt;h3 id=&#34;learner-toolkit&#34;&gt;Learner Toolkit&lt;/h3&gt;
+
+&lt;p&gt;Select two or three resources directly relevant to your personal or work-related CC needs from the Acquiring Essential Knowledge content and add them to your personal Creative Commons toolkit. Adding them to your toolkit makes them easy to find and use when the need arises, and makes it easy for you to pass on resources you consider important to others. Annotate the resources with notes explaining why they are relevant and important for you and your work.&lt;/p&gt;
+
+&lt;h3 id=&#34;community-collaboration-appreciation-recognition-gratitude&#34;&gt;Community - Collaboration, Appreciation, Recognition, Gratitude&lt;/h3&gt;
+
+&lt;p&gt;It’s relatively straightforward to identify examples of creations that would enjoy either copyright, trademark, or patent protection. Can you come up with an example that might enjoy two forms of protection simultaneously? How about an example that might enjoy all three forms of protection? Share your examples and explanations in the CC Certification social forum, and see if you agree with the examples and explanations posted by others.&lt;/p&gt;
+
+&lt;h3 id=&#34;applied-practice&#34;&gt;Applied Practice&lt;/h3&gt;
+
+&lt;p&gt;Complete the following activity in the Quest Bank:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://quests.creativecommons.org/assignments/poetic-ip&#34;&gt;Poetic Forms of IP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/cc-by-sa-88x31.png&#34; alt=&#34;Creative Commons Attribution-ShareAlike license&#34; title=&#34;CC BY-SA&#34; /&gt;
+Licensed under a &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike license (CC BY-SA) version 4.0&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Except where otherwise noted, this content is published under a &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;CC BY-SA license&lt;/a&gt;, which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+License details: &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;https://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Creative Commons Certificates have been created with the kind support of &lt;a href=&#34;http://creativecommons.org/&#34;&gt;Creative Commons&lt;/a&gt;, the &lt;a href=&#34;https://www.imls.gov/&#34;&gt;Institute of Museum and Library Services&lt;/a&gt;, and the &lt;a href=&#34;http://www.gatesfoundation.org/&#34;&gt;Bill &amp;amp; Melinda Gates Foundation&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Delivery Format</title>
+      <link>https://cogdog.github.io/cc-cert-hugo/about/overview/</link>
+      <pubDate>Mon, 17 Apr 2017 15:19:38 -0700</pubDate>
+      
+      <guid>https://cogdog.github.io/cc-cert-hugo/about/overview/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/light.jpg&#34; alt=&#34;light&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://unsplash.com/collections/400956/play?photo=uf4oyaimWwg&#34;&gt;Photo&lt;/a&gt; by &lt;a href=&#34;https://unsplash.com/@jamomca&#34;&gt;Jamison McAndie&lt;/a&gt; has been placed in the Public Domain using &lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/&#34;&gt;CC0&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Delivery of formal certificate training is done by Creative Commons and its authorized partners. Authorized partners include institutions and organizations who have gone through a “train-the-trainer” process with Creative Commons.&lt;/p&gt;
+
+&lt;p&gt;Creative Commons uses a “flipped classroom” approach for formal delivery of the CC CORE Certificate. The flipped classroom is a pedagogical model in which the typical lecture and homework elements of a course are reversed. The CC CORE Certificate starts with everyone having access to the online CORE curricula and learning activities. Participants complete the learning modules and activities in advance of a live facilitated portion of the delivery.&lt;/p&gt;
+
+&lt;p&gt;Once a significant number of participants complete the online learning Creative Commons facilitators schedules a 2 day in person or online facilitated session. Using the flipped classroom approach the live facilitated component of delivery focuses on helping participants generate evidence of learning completion, demonstrate mastery by completing a final assignment for each module, and learn from each other through shared learning activities and discussion.&lt;/p&gt;
+
+&lt;p&gt;Upon successful completion of the online learning and the 2 day facilitated learning activities participating participants will be invited to assemble and submit evidence of learning to claim their certification. Evidence will be comprised of a personal toolkit, community engagement, applied practice portfolio, and culminating module mastery learning outputs. Submitted evidence will be reviewed by CC certificate facilitators to ensure successful completion of learning outcomes. On confirmation of completion a Creative Commons certificate will be awarded and recipients listed publicly on Creative Commons web site.&lt;/p&gt;
+
+&lt;h2 id=&#34;duration&#34;&gt;Duration&lt;/h2&gt;
+
+&lt;p&gt;Creative Commons recommends budgeting 3-4 days of effort to complete the online learning work in advance of the 2 day live facilitated face-to-face session. All told completion of the certificate will take 5 to 6 days (40-50 hours of effort).&lt;/p&gt;
+
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Computer or tablet device&lt;/li&gt;
+&lt;li&gt;Access to the Internet&lt;/li&gt;
+&lt;li&gt;Willingness to collaborate with peers&lt;/li&gt;
+&lt;li&gt;Openness to engage in social community activities&lt;/li&gt;
+&lt;li&gt;Confidence in sharing examples of completed work openly on the web&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;learning-process&#34;&gt;Learning Process&lt;/h2&gt;
+
+&lt;p&gt;The certificate learning process involves:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Consideration of a big question that situates the learning in a big picture context and helps you see its importance and why it matters.&lt;/li&gt;
+&lt;li&gt;Personal reflection that makes the topic specifically relevant to your personal life or work.&lt;/li&gt;
+&lt;li&gt;Acquiring essential knowledge through readings, audio, and videos.&lt;/li&gt;
+&lt;li&gt;Application of learning through creation of a toolkit, engaging in the Creative Commons community, and applied practice.&lt;/li&gt;
+&lt;li&gt;Demonstrating mastery by contributing to the public commons in a way that generates value for yourself and others.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;certification&#34;&gt;Certification&lt;/h2&gt;
+
+&lt;p&gt;Upon successful completion of learning activities, confirmed by review of evidence, a Creative Commons certificate will be awarded.&lt;/p&gt;
+
+&lt;p&gt;Certificate recipients will be listed publicly on Creative Commons web site in a means that is verifiable.&lt;/p&gt;
+
+&lt;p&gt;You claim certification by submitting your personal toolkit, evidence of community engagement, applied practice portfolio and culminating module mastery learning outputs. Your submitted evidence will be reviewed by CC certificate facilitators to ensure successful completion of learning outcomes.&lt;/p&gt;
+
+&lt;p&gt;Claiming certification and the ensuing review of evidence will require payment of a fee that helps recover costs associated with offering and maintaining the certificate program.&lt;/p&gt;
+
+&lt;p&gt;Note: Fee payment is necessary for cost recovery reasons. We acknowledge some participants may not be able to pay a fee. We don’t want fees to be a barrier so Creative Commons offers alternatives to fee payment which may include things like authoring additional content for a learning unit, or maintaining a learning unit that has linkrot/holes, enhancing units with visuals, translating content, localizing content, mentoring others, etc. Contact CC when you are ready to claim your certificate for more.&lt;/p&gt;
+
+&lt;h2 id=&#34;other-forms-of-participation-and-delivery-options&#34;&gt;Other forms of participation and delivery options&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/creativecommons/cc-cert-lib/blob/master/images/ReadOn.jpg&#34; alt=&#34;Read On&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://flic.kr/p/8CBVH2&#34;&gt;Read On!&lt;/a&gt; by &lt;a href=&#34;https://www.flickr.com/photos/vblibrary/&#34;&gt;Enokson&lt;/a&gt; is licensed &lt;a href=&#34;https://creativecommons.org/licenses/by/2.0/&#34;&gt;CC BY&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;CC certificates have been authored in a way that is independent of delivery mode. Participation can be done in a 100% online mode of delivery, a mixed/hybrid (partly online / partly face-to-face), or a completely in person.&lt;/p&gt;
+
+&lt;p&gt;Certificate participation can be informal (no certificate sought) or formal (certificate sought), scheduled or unscheduled.&lt;/p&gt;
+
+&lt;p&gt;The flexible delivery and participation options include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Informal&lt;/li&gt;
+&lt;li&gt;Formal&lt;/li&gt;
+&lt;li&gt;Scheduled&lt;/li&gt;
+&lt;li&gt;Unscheduled&lt;/li&gt;
+&lt;li&gt;Learn for free&lt;/li&gt;
+&lt;li&gt;Certification for a fee&lt;/li&gt;
+&lt;li&gt;Customized&lt;/li&gt;
+&lt;li&gt;DIY&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;unscheduled-informal&#34;&gt;Unscheduled Informal&lt;/h3&gt;
+
+&lt;p&gt;Creative Commons certificate content and learning activities are available online at all times for your use. You can come and go as you please and engage in learning over whatever time period you choose. Unscheduled informal learning is free, no registration or payment is required. Unscheduled learning does not have a facilitator.&lt;/p&gt;
+
+&lt;h3 id=&#34;unscheduled-formal&#34;&gt;Unscheduled Formal&lt;/h3&gt;
+
+&lt;p&gt;You may start out simply learning about Creative Commons in an unscheduled informal way but at some point if you decide you want to seek certification you can flip to formal. Flipping to formal requires you to complete the learning activities and claim your certificate by submitting evidence of completion. (See descriptions of formal below.) A fee will be required for review of evidence and award of certificate.&lt;/p&gt;
+
+&lt;h3 id=&#34;scheduled-informal&#34;&gt;Scheduled Informal&lt;/h3&gt;
+
+&lt;p&gt;On request Creative Commons will provide informal delivery to groups of individuals from the same organization over a scheduled period of days. Scheduled delivery will be led by facilitators and be fee based. Delivery can be online, hybrid, or face-to-face depending on needs. Scheduled informal delivery focuses on engaging participants in acquiring basic knowledge through learning activities relevant to their work. Completion of all learning activities and submission of evidence of completion is not required. No formal certificate will be issued.&lt;/p&gt;
+
+&lt;h3 id=&#34;scheduled-formal&#34;&gt;Scheduled Formal&lt;/h3&gt;
+
+&lt;p&gt;On request Creative Commons will provide formal delivery to groups of individuals from the same organization over a scheduled period of days. Scheduled delivery will be led by facilitators and be fee based. Delivery can be online, hybrid, or face-to-face depending on needs. Scheduled formal delivery focuses on an initial online phase engaging participants in acquiring basic knowledge and learning activities relevant to their work. After successful completion of the online learning a 2 day face to face or online facilitated delivery is scheduled. Completion of learning activities and submission of evidence is required before qualifying to receive the formal certificate.&lt;/p&gt;
+
+&lt;h3 id=&#34;custom&#34;&gt;Custom&lt;/h3&gt;
+
+&lt;p&gt;Special customized training programs can be prepared on request. Contact CC to enquire.&lt;/p&gt;
+
+&lt;h3 id=&#34;diy&#34;&gt;DIY&lt;/h3&gt;
+
+&lt;p&gt;Creative Commons certificates have been authored as Open Educational Resources (OER). The content is available to organizations to reuse and remix.&lt;/p&gt;
+
+&lt;p&gt;From a technical perspective the content has been produced in the simplest yet most transportable structural format of Markdown. The “master” copies &lt;a href=&#34;https://github.com/creativecommons/cc-cert-lib&#34;&gt;live on Github&lt;/a&gt; where Creative Commons can manage and track all versions in one place. Use of GitHub to manage source files makes it possible for anyone to create their own “fork” of that content in Github and add or modify certificate learning materials to fit organizational specific needs.&lt;/p&gt;
+
+&lt;p&gt;The Markdown content can be migrated to other environments, with a few transformations for links and images to work. However Creative Commons can provide a fully-self contained version in Wordpress format, that can be imported to any theme. With a custom plugin, the certification content will work out of the box, and all localizations can be done in more familiar Wordpress environment.&lt;/p&gt;
+
+&lt;p&gt;Likewise, Creative Commons will be able to  a forkable self contained version as static HTML as well as Gitbooks&lt;/p&gt;
+
+&lt;p&gt;The idea is to give you multiple ways to DIY customize your own version of CC certificates. If in the process of customization you produce new content you think we should add to the master version you can submit edits back to us via the GitHub fork and push process. DIY versions of certificate training can be created and delivered by anyone but participants will not receive formal certificates from Creative Commons.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/cc-by-sa-88x31.png&#34; alt=&#34;Creative Commons Attribution-ShareAlike license&#34; title=&#34;CC BY-SA&#34; /&gt;
+Licensed under a &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike license (CC BY-SA) version 4.0&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Except where otherwise noted, this content is published under a &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;CC BY-SA license&lt;/a&gt;, which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+License details: &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;https://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Creative Commons Certificates have been created with the kind support of &lt;a href=&#34;http://creativecommons.org/&#34;&gt;Creative Commons&lt;/a&gt;, the &lt;a href=&#34;https://www.imls.gov/&#34;&gt;Institute of Museum and Library Services&lt;/a&gt;, and the &lt;a href=&#34;http://www.gatesfoundation.org/&#34;&gt;Bill &amp;amp; Melinda Gates Foundation&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Physical vs Digital Commons</title>
       <link>https://cogdog.github.io/cc-cert-hugo/commons/physical-digital/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Apr 2017 15:52:47 -0700</pubDate>
       
       <guid>https://cogdog.github.io/cc-cert-hugo/commons/physical-digital/</guid>
       <description>
 
-&lt;p&gt;Imagine a time in the new future in which all writing can be commercialized.&lt;/p&gt;
+&lt;p&gt;Imagine a world in which someone has invented a machine that can produce perfect copies of any food item&lt;/p&gt;
 
 &lt;h2 id=&#34;the-big-question&#34;&gt;The Big Question&lt;/h2&gt;
 
-&lt;p&gt;Through the magic of a new technology which can automatically capture and upload them to a website, every napkin doodle, every journal entry, and every love letter can be made available for sale as soon as you finish writing them. By means of improvements to operating systems like Windows, Mac, and Linux, all written documents like emails, homework assignments, and office memos can be automatically posted for sale on the site as soon as they are saved.&lt;/p&gt;
+&lt;p&gt;All you have to do is put in a single bowl of rice, or slice of pizza, or an apple, or a piece of cake, and the machine can make an infinite number of perfect copies for anyone who asks. And it can make those copies instantaneously. And for free. What would that world be like?&lt;/p&gt;
 
-&lt;p&gt;An upgrade to the technology might help users automatically offer all images they create for sale, from mobile phone photos to crayon drawings to watercolor paintings. Future versions of the technology might provide the same functionality for videos and sound recordings.&lt;/p&gt;
+&lt;p&gt;The internet is exactly this kind of machine. All you have to do is upload a bit of writing, or an image, or a video - anything that can be represented and stored as bits - and the machine can  make an infinite number of perfect copies for anyone who asks. And it can make those copies instantaneously. And for free. And send them anywhere around the world at the speed of light. What is our world currently like? What &lt;em&gt;could&lt;/em&gt; it be like if we leveraged this technology to its potential?&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-map/img/core/future-scanner.jpg&#34; alt=&#34;Technology Infographics Computer&#34; title=&#34;graphic of futuristic computer interface&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/commons/commons-copy.jpg&#34; alt=&#34;Copy Notices&#34; title=&#34;image of copy notices&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://pixabay.com/en/technology-informatics-computers-298256/&#34;&gt;Technology-298256&lt;/a&gt; Pixabay image by &lt;a href=&#34;https://pixabay.com/en/users/andrelyra-201440/&#34;&gt;andreleya&lt;/a&gt; licensed under &lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/&#34;&gt;CC0&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Now imagine that when this final version of the software is released, the national government requires all citizens to install it on all their devices, mandating the commercialization of every creative work that will ever be produced in the future, regardless of how trivial - or personal - it is.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;There are a thousand things wrong with this scenario&lt;/strong&gt;. And while the technology sounds fantastic and distant, the legal foundation of this dystopian future is already in place. After joining the &lt;a href=&#34;https://wikipedia.org/wiki/Berne_Convention&#34;&gt;Berne Convention&lt;/a&gt;, most countries in the world now automatically apply copyright - the legal protections necessary to effectively commercialize a creative work - to each and every creative work the moment it is created, regardless of how personal or trivial it is. In this worldview that anticipates the commercialization of all creative works, a three year old child’s wobbly pencil drawing is protected to the same degree as Star Wars or Harry Potter. And this is not a hypothetical future scenario, it’s the actual state of affairs in the world today.&lt;/p&gt;
-
-&lt;p&gt;This situation is utterly preposterous for many reasons, but one important reason is that many people create things with the goal of sharing them with others, like directions for purifying water after a natural disaster. What if a creator doesn’t want their work “protected” from copying and distribution, but wants it copied and shared as far and wide as technologically possible?&lt;/p&gt;
-
-&lt;p&gt;Return to our imaginary scenario for a moment.&lt;/p&gt;
-
-&lt;p&gt;What if, recognizing the public backlash, a second technology company created a tool that allowed a person to remove things from the website that commercialized all creative work? While it wouldn’t be able to prevent things from being placed on the site for sale automatically (as the law required), it would provide people with an easy - and legal - way to remove things from the site that they didn’t want to commercialize.&lt;/p&gt;
-
-&lt;p&gt;Returning to the real world, this is essentially what an open license does. Open licenses are easy to use legal tools - copyright licenses - that allow people to choose to share their work with others under a range of conditions. Rather than being forced to accept the default All Rights Reserved “protection” the law automatically forces on each and every creative work, a creator or author can choose to apply an open license license to their work, thereby allowing it to be copied and shared widely and legally. Many open licenses also grant permission to make changes and improvements to the work, like translating the document about purifying water into other languages. By applying an open license to their creation, an author places that work in a broader commons of creative works.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-map/img/core/image-placeholder.png&#34; alt=&#34;lead image&#34; title=&#34;Lead Image&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;a href=&#34;http://image.link&#34;&gt;Image Title&lt;/a&gt; site photo by &lt;a href=&#34;http://person.link&#34;&gt;Person Name&lt;/a&gt;  is licensed under &lt;a href=&#34;http://creativecommons/org/licenselink&#34;&gt;CC-XX&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;&lt;a href=&#34;https://www.flickr.com/photos/unkle_cheese/828876896/&#34;&gt;Copy Notices&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://www.flickr.com/photos/unkle_cheese/&#34;&gt;Jimmy Jim Jim Shabadoo&lt;/a&gt; licensed under &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/2.0/&#34;&gt;CC-BY-SA&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;learning-outcomes&#34;&gt;Learning Outcomes&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Dramatize problem open licensing is solving/addressing, how it is an alternative to copyright&lt;/li&gt;
-&lt;li&gt;Illustrate where open licensing exists on spectrum between public domain &amp;amp; copyright&lt;/li&gt;
-&lt;li&gt;Explain potentials, uses of open licensing, value of sharing as a default&lt;/li&gt;
-&lt;li&gt;Analyze the reasons for open licensing in your context&lt;/li&gt;
-&lt;li&gt;Define opportunities / benefits of collaborative peer production&lt;/li&gt;
-&lt;li&gt;Demonstrate benefits of access to knowledge&lt;/li&gt;
+&lt;li&gt;Provide examples of physical and digital commons&lt;/li&gt;
+&lt;li&gt;Compare scarce (physical) vs. non-scarce (digital) resources&lt;/li&gt;
+&lt;li&gt;Explain non-rivalrous goods&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;opening-questions&#34;&gt;Opening Questions&lt;/h2&gt;
+&lt;h2 id=&#34;personal-reflection-why-it-matters-to-you&#34;&gt;Personal Reflection / Why it Matters to You&lt;/h2&gt;
 
-&lt;p&gt;Should all writing, images, videos, sound recordings, and other creative works be automatically protected by copyright so they can be commercialized? Think of all the things you create every day - emails, photos, videos, and more. You may have authored a million or more creative works over your lifetime. Even if you are a creative professional and earn your livelihood by selling creative works, over 99.999% of what you have created has rightly gone uncommercialized. What might be the benefit of sharing some of these works with colleagues, peers, other organizations, or “the community”? How might your work be improved upon if you gave others permission to make improvements?&lt;/p&gt;
+&lt;p&gt;Why do we have the internet - perhaps the perfect machine for the free and open sharing of content - but not a copy machine for food? What are some of the differences between physical things like food and digital things like videos and web pages? How do these differences change the way you engage in commons centered on digital resources?&lt;/p&gt;
 
-&lt;h2 id=&#34;what-is-it&#34;&gt;What is It?&lt;/h2&gt;
+&lt;h2 id=&#34;acquiring-essential-knowledge&#34;&gt;Acquiring Essential Knowledge&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-map/img/core/image-placeholder.png&#34; alt=&#34;Nice image&#34; title=&#34;Nice Image&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;physical-and-digital-commons&#34;&gt;Physical and Digital Commons&lt;/h3&gt;
 
-&lt;p&gt;&lt;em&gt;&lt;a href=&#34;http://image.link&#34;&gt;Image Title&lt;/a&gt; site photo by &lt;a href=&#34;http://person.link&#34;&gt;Person Name&lt;/a&gt;  is licensed under &lt;a href=&#34;http://creativecommons/org/licenselink&#34;&gt;CC-XX&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/commons/digital-analog.jpg&#34; alt=&#34;Digital and Analog&#34; title=&#34;Digital vs Analog image, crayons on a tablet device&#34; /&gt;&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;&lt;a href=&#34;https://www.flickr.com/photos/derekbruff/6134574629&#34;&gt;Digital Versus Analog&lt;/a&gt;&amp;rdquo;  by &lt;a href=&#34;https://www.flickr.com/photos/derekbruff/&#34;&gt;Derek Bruff&lt;/a&gt; is licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by-nc/2.0/&#34;&gt;CC-BY-NC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;another-section&#34;&gt;Another Section&lt;/h2&gt;
+&lt;p&gt;There are some significant differences between physical and digital commons. The brief video &lt;a href=&#34;https://www.youtube.com/watch?v=gJWbVt2Nc-I&#34;&gt;Why Open Education Matters&lt;/a&gt; provides a high-level overview of these differences in the context of education.&lt;/p&gt;
 
-&lt;p&gt;Now that we understand it, let’s talk a little bit about why it is important.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=gJWbVt2Nc-I&#34;&gt;https://www.youtube.com/watch?v=gJWbVt2Nc-I&lt;/a&gt;&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;&amp;ldquo;&lt;a href=&#34;https://www.youtube.com/watch?v=gJWbVt2Nc-I&#34;&gt;Why Open Education Matters&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://www.youtube.com/channel/UCFiCJVgJzpWxoYnGjs752EQ&#34;&gt;David Blake&lt;/a&gt; licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;CC-BY&lt;/a&gt;&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;For more detail on the differences between physical and digital commons, we have to look more closely at the nature of the resources around which these commons are organized. To do this with clarity, we’ll need to employ some concepts from introductory economics. First, we need to understand Rivalry and Excludability.&lt;/p&gt;
 
-&lt;h2 id=&#34;another-section-1&#34;&gt;Another Section&lt;/h2&gt;
+&lt;p&gt;A resource is said to be rivalrous when one person’s use of the resource interferes with another person’s use of the resource. For example, if you eat a sandwich, I can’t eat the sandwich - this makes the sandwich a rivalrous resource. By contrast, if you watch a YouTube video that doesn’t prevent me (or a million other people) from watching that same video at the same time - this makes the video is a nonrivalrous resource. Read more about &lt;a href=&#34;https://wikipedia.org/wiki/Rivalry_(economics)&#34;&gt;Rivalry&lt;/a&gt; from Wikipedia.&lt;/p&gt;
 
-&lt;p&gt;Now that we understand it, let’s talk a little bit about why it is important.&lt;/p&gt;
+&lt;p&gt;A resource is said to be excludable if people can be prevented from accessing it. For example, when a television show is broadcast over the air it is a nonexcludable resource because there is no way to prevent an individual with a television from watching it. By contrast, when the same television show is broadcast by satellite it is encrypted so that only people who have the right equipment and a current subscription can watch it, making the show broadcast by satellite an excludable resource.&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;We can build a table of rivalrous, nonrivalrous, excludable, and nonexcludable resources like the following one from Wikipedia:&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Excludable&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Non-excludable&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
 
-&lt;h2 id=&#34;another-section-2&#34;&gt;Another Section&lt;/h2&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;Rivalrous&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Private_good&#34;&gt;Private goods&lt;/a&gt; &lt;br /&gt; food, clothing, cars, parking spaces&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Common-pool_resource&#34;&gt;Common-pool resources&lt;/a&gt; &lt;br /&gt; fish stocks, timber, coal&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;p&gt;Now that we understand it, let’s talk a little bit about why it is important.&lt;/p&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;Nonrivalrous&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Club_good&#34;&gt;Club goods&lt;/a&gt; &lt;br /&gt; cinemas, private parks, satellite television&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Public_good&#34;&gt;Public goods&lt;/a&gt; &lt;br /&gt; free-to-air television, air, national defense&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;Take some time to explore the articles on Common-pool resources and Public goods linked in the table above.&lt;/p&gt;
 
-&lt;h2 id=&#34;more-to-explore&#34;&gt;More to Explore&lt;/h2&gt;
+&lt;p&gt;Once you understand these concepts, you will see that physical commons form around &lt;a href=&#34;https://en.wikipedia.org/wiki/Common-pool_resource&#34;&gt;common-pool resources&lt;/a&gt; and digital commons form around &lt;a href=&#34;https://en.wikipedia.org/wiki/Public_good&#34;&gt;public goods&lt;/a&gt;. The difference between rivalrous resources and nonrivalrous resources lies at the heart of the difference between physical and digital commons.&lt;/p&gt;
+
+&lt;h2 id=&#34;application-of-learning&#34;&gt;Application of Learning&lt;/h2&gt;
+
+&lt;h3 id=&#34;learner-toolkit&#34;&gt;Learner Toolkit&lt;/h3&gt;
+
+&lt;p&gt;Select two or three resources directly relevant to your personal or work-related CC needs from the Acquiring Essential Knowledge content and add them to your personal Creative Commons toolkit. Adding them to your toolkit makes them easy to find and use when the need arises, and makes it easy for you to pass on resources you consider important to others. Annotate the resources with notes explaining why they are relevant and important for you and your work.&lt;/p&gt;
+
+&lt;h3 id=&#34;community-collaboration-appreciation-recognition-gratitude&#34;&gt;Community - Collaboration, Appreciation, Recognition, Gratitude&lt;/h3&gt;
+
+&lt;p&gt;In the CC Certificate social forum post some examples of private goods, club goods, common-pool resources, or public goods. Read some of the examples provided by others and see if you agree or disagree with how they have classified their examples and provide constructive, supportive feedback.&lt;/p&gt;
+
+&lt;h3 id=&#34;applied-practice&#34;&gt;Applied Practice&lt;/h3&gt;
+
+&lt;p&gt;Complete one or more following activities in the Quest Bank:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Commons-based_peer_production&#34;&gt;Commons-based peer production&lt;/a&gt; is a Wikipedia entry licensed under &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/3.0/&#34;&gt;CC-BY-SA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.nyu.edu/projects/nissenbaum/papers/jopp_235.pdf&#34;&gt;Commons-based Peer Production and Virtue&lt;/a&gt; published paper  by &lt;a href=&#34;http://benkler.org&#34;&gt;Yochai Benkler&lt;/a&gt; and &lt;a href=&#34;http://www.nyu.edu/projects/nissenbaum/&#34;&gt;Helen Nissenbaum&lt;/a&gt; from &lt;em&gt;The Journal of Political Philosophy&lt;/em&gt;: Volume 14, Number 4, 2006, pp. 394–419.
-
-
-&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://quests.creativecommons.org/assignments/from-physical-to-digital&#34;&gt;From Physical to Digital&lt;/a&gt;  Analyze resources that were once only available physically but are now available in both physical and digital formats.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://quests.creativecommons.org/assignments/aspects-of-digital-vs-digital-sharing/&#34;&gt;Aspects of Physical and Digital Sharing&lt;/a&gt; What are the differences and related issues of sharing a physical object (like a book, recorded music, or a piece of art) versus digital versions.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;your-quest-taking-on-the-big-question&#34;&gt;Your Quest: Taking on the Big Question&lt;/h2&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;Blah blah blah&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/cc-by-sa-88x31.png&#34; alt=&#34;Creative Commons Attribution-ShareAlike license&#34; title=&#34;CC BY-SA&#34; /&gt;
+Licensed under a &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike license (CC BY-SA) version 4.0&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Answer by completing this CC Quest:&lt;/p&gt;
+&lt;p&gt;Except where otherwise noted, this content is published under a &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;CC BY-SA license&lt;/a&gt;, which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+License details: &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;https://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;What&amp;rsquo;s the Opportunity of the Commons?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Select a resource that you have created. Along with sharing the resource, share an evaluation of the opportunities and benefits that could come from sharing this resource with peers (reach, critique, collaborative peer production).&lt;/p&gt;
-
-&lt;p&gt;Share a resource you own the copyright for and make a call for collaborative peer production/improvement of the material.&lt;/p&gt;
-
-&lt;p&gt;Find a resource and locate the copyright on the resource. Share the steps it would take to contact the copyright holder to use their work. This will help demonstrate an understanding of how much easier it is to use and share a CC licensed work.&lt;/p&gt;
-
-&lt;p&gt;Quest description &lt;a href=&#34;http://quests.creativecommons.org/&#34;&gt;Complete this Quest&lt;/a&gt; (link to be added).&lt;/p&gt;
-
-&lt;p&gt;Increase your CC Cred by &lt;a href=&#34;http://quests.creativecommons.org/&#34;&gt;doing additional quests&lt;/a&gt; (link to be added).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Creative Commons Certificates have been created with the kind support of &lt;a href=&#34;http://creativecommons.org/&#34;&gt;Creative Commons&lt;/a&gt;, the &lt;a href=&#34;https://www.imls.gov/&#34;&gt;Institute of Museum and Library Services&lt;/a&gt;, and the &lt;a href=&#34;http://www.gatesfoundation.org/&#34;&gt;Bill &amp;amp; Melinda Gates Foundation&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>CC License Suite</title>
-      <link>https://cogdog.github.io/cc-cert-hugo/licenses/</link>
-      <pubDate>Thu, 22 Dec 2016 00:40:27 -0700</pubDate>
+      <title>Scope of Public Domain</title>
+      <link>https://cogdog.github.io/cc-cert-hugo/copyright/public-domain/</link>
+      <pubDate>Mon, 17 Apr 2017 15:45:44 -0700</pubDate>
       
-      <guid>https://cogdog.github.io/cc-cert-hugo/licenses/</guid>
+      <guid>https://cogdog.github.io/cc-cert-hugo/copyright/public-domain/</guid>
       <description>
 
-&lt;h3 id=&#34;creative-commons-core-certificate&#34;&gt;Creative Commons Core Certificate&lt;/h3&gt;
+&lt;p&gt;Copyright protection is not forever, at some point the protection expires and works enter the public domain.&lt;/p&gt;
 
-&lt;h1 id=&#34;creative-commons-license-suite&#34;&gt;Creative Commons License Suite&lt;/h1&gt;
+&lt;h2 id=&#34;the-big-question&#34;&gt;The Big Question&lt;/h2&gt;
 
-&lt;p&gt;The Creative Commons copyright licenses offer flexible options still within copyright law’s “all rights reserved” setting.&lt;/p&gt;
+&lt;p&gt;Works in the public domain are collective cultural inheritance. Before the complexities of copyright law, Intellectual Property and Patents works were largely public. It wasn’t until mid-18th century that the term “public domain” came into use.&lt;/p&gt;
+
+&lt;p&gt;Today, when a creative work’s copyright protection ends, the work enters the public domain, free for all to use, without permission, indefinitely.  Works in the public domain are not protected by intellectual property law including copyright, trademark or patent. The public owns this work, the work cannot be owned by an individual.  Length of copyright terms vary from country to country.  The US is life plus 70 years, Canada is 50 years following a creator’s death, length of copyright terms by country can be found here.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/copyright/voyage-dans-la-lune.jpg&#34; alt=&#34;Melies color Voyage dans la lune&#34; title=&#34;Melies color Voyage dans la lune&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;ldquo;[Melies color Voyage dans la lune]&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Melies_color_Voyage_dans_la_lune.jpg)&amp;quot;&#34;&gt;https://commons.wikimedia.org/wiki/File:Melies_color_Voyage_dans_la_lune.jpg)&amp;quot;&lt;/a&gt; by &lt;a href=&#34;https://en.wikipedia.org/wiki/Georges_M%C3%A9li%C3%A8s&#34;&gt;Georges Méliès&lt;/a&gt; is in the Public Domain)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;A strong public domain is the basis for a creative society. New uses can be built and work can be expanded. There are 4 common ways a work arrives in the public domain&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the copyright has expired&lt;/li&gt;
+&lt;li&gt;the copyright owner failed to follow copyright renewal rules&lt;/li&gt;
+&lt;li&gt;the copyright owner dedicates it to the to the public domain&lt;/li&gt;
+&lt;li&gt;copyright law does not protect this type of work&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;learning-outcomes&#34;&gt;Learning Outcomes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Explain public domain&lt;/li&gt;
+&lt;li&gt;Communicate value of the public domain&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;personal-reflection-why-it-matters-to-you&#34;&gt;Personal Reflection / Why It Matters to You&lt;/h2&gt;
+
+&lt;p&gt;Works in the public domain have resulted in many interesting and creative works.  The &lt;a href=&#34;https://dp.la/&#34;&gt;Digital Public Library Association&lt;/a&gt; runs &lt;a href=&#34;https://dp.la/info/gif-it-up/&#34;&gt;an annual gif competition&lt;/a&gt; using images in the public domain.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/copyright/dissension.gif&#34; alt=&#34;Dissension&#34; title=&#34;Dissension 2015 GIF IT UP Winner&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;ldquo;&lt;a href=&#34;http://gifitup2015.tumblr.com/post/131439542373/gif-it-up-2015-entry-dissension-from-tobias&#34;&gt;Dissension&lt;/a&gt;&amp;rdquo; by Tobias Rothe is licensed &lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;CC BY&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Following step costs and complex systems clearing music rights, comedian James Corden host of the Late Late Show began a segment where his famous guests perform songs in the public domain.  Here is actor Jamie Foxx American actor, singer, songwriter, and comedian performing &lt;strong&gt;Twinkle Twinkle Little Star&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=bW0E_sncNic8&#34;&gt;https://www.youtube.com/watch?v=bW0E_sncNic8&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;:&lt;a href=&#34;https://www.youtube.com/watch?v=bW0E_sncNic8&#34;&gt;Public Domain Songs w/ Jamie Foxx&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://www.youtube.com/channel/UCJ0uqCI0Vqr2Rrt1HseGirg&#34;&gt;The Late Late Show with James Corden&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Think about items you interact with in your everyday life and  public domains you experience in your everyday life. Identify an object in your life that is a piece of the public domain.&lt;/p&gt;
+
+&lt;h2 id=&#34;acquiring-essential-knowledge&#34;&gt;Acquiring Essential Knowledge&lt;/h2&gt;
+
+&lt;h3 id=&#34;introduction-to-the-public-domain&#34;&gt;Introduction to the public domain&lt;/h3&gt;
+
+&lt;p&gt;“Creativity always builds on the past” is a common theme when talking about the public domain—those works which are free to use and re-use without any restrictions.  You can learn about this theme on by watching the video &lt;a href=&#34;https://creativecommons.org/about/videos/building-on-the-past/&#34;&gt;Building on the Past&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;value-of-public-domain&#34;&gt;Value of public domain&lt;/h3&gt;
+
+&lt;p&gt;Pamela Samuelson Professor of Law and Information Management at the University of California, Berkeley  has identified &lt;a href=&#34;https://books.google.ca/books?id=KJmNGglq0nwC&amp;amp;dq=public+domain&amp;amp;lr=&amp;amp;as_brr=3&amp;amp;source=gbs_navlinks_s&amp;amp;redir_esc=y&#34;&gt;eight &amp;ldquo;values&amp;rdquo; that can arise from information and works in the public domain&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Building blocks for the creation of new knowledge, examples include data, facts, ideas, theories, and scientific principle.&lt;/li&gt;
+&lt;li&gt;Access to cultural heritage through information resources such as ancient Greek texts and Mozart&amp;rsquo;s symphonies.&lt;/li&gt;
+&lt;li&gt;Promoting education, through the spread of information, ideas, and scientific principles.&lt;/li&gt;
+&lt;li&gt;Enabling follow-on innovation, through for example expired patents and copyright.&lt;/li&gt;
+&lt;li&gt;Enabling low cost access to information without the need to locate the owner or negotiate rights clearance and pay royalties, through for example expired copyrighted works or patents, and non-original data compilation.[23]&lt;/li&gt;
+&lt;li&gt;Promoting public health and safety, through information and scientific principles.&lt;/li&gt;
+&lt;li&gt;Promoting the democratic process and values, through news, laws, regulation, and judicial opinion.&lt;/li&gt;
+&lt;li&gt;Enabling competitive imitation, through for example expired patents and copyright, or publicly disclosed technologies that do not qualify for patent protection.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;public-domain-as-it-relates-to-intellectual-property&#34;&gt;Public Domain as it relates to Intellectual Property&lt;/h3&gt;
+
+&lt;p&gt;The world did not alway live in the current complexity of copyright laws.  Public domain reacts differently with different mediums, books, music, film.  Read this Wikipedia page on &lt;a href=&#34;https://en.wikipedia.org/wiki/Public_domain&#34;&gt;“public domain”&lt;/a&gt; in relation to intellectual property laws.&lt;/p&gt;
+
+&lt;p&gt;Detailed overview of the concept of public domain can be found  at the &lt;a href=&#34;http://fairuse.stanford.edu/overview/public-domain/welcome/&#34;&gt;Stanford University Libraries&lt;/a&gt;,  on the &lt;a href=&#34;https://www.teachingcopyright.org/handout/public-domain-faq.html&#34;&gt;Teaching Copyright&lt;/a&gt; website.&lt;/p&gt;
+
+&lt;h3 id=&#34;tools-for-the-public-domain&#34;&gt;Tools for the public domain&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/copyright/cc-zero.png&#34; alt=&#34;Public Domain CC0&#34; title=&#34;Public Domain CC0&#34; /&gt;
+&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/copyright/publicdomain.png&#34; alt=&#34;Public Domain&#34; title=&#34;Public Domain&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Creative Commons public domain legal tool buttons, via &lt;a href=&#34;https://creativecommons.org/about/downloads/&#34;&gt;https://creativecommons.org/about/downloads/&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;One of the four ways previously mention for a work to arrive in the public domain is for a creator to dedicate it to the public domain.&lt;/p&gt;
+
+&lt;p&gt;Creative Commons has a tool that allows for easy dedication to the public domain called CC-0. &lt;a href=&#34;https://creativecommons.org/share-your-work/public-domain/&#34;&gt;Read about the legal tools provided by Creative Commons&lt;/a&gt; in support of the public domain, including the &lt;a href=&#34;https://creativecommons.org/share-your-work/public-domain/cc0/&#34;&gt;CC0 Public Domain Dedication&lt;/a&gt;, and the &lt;a href=&#34;https://creativecommons.org/share-your-work/public-domain/pdm/&#34;&gt;Public Domain Mark&lt;/a&gt;. Review &lt;a href=&#34;https://wiki.creativecommons.org/images/8/88/Publicdomain.pdf&#34;&gt;CC’s Guide to using public domain tools&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;With millions of creative works whose copyright has expired—and thousands more added each week with tools like the CC0 Public Domain Dedication, the size of the public domain is huge! As of 2015, there were over 35 million works marked as in the public domain using the Creative Commons tools.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/copyright/public-domain-2015.jpg&#34; alt=&#34;CC Works in the Public Domain&#34; title=&#34;CC Works in the Public Domain&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;image from &lt;a href=&#34;https://stateof.creativecommons.org/2015/&#34;&gt;2015 State of the Commons&lt;/a&gt; report by Creative Commons is licensed &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;CC BY&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;how-to-find-public-domain-online&#34;&gt;How to find public domain online?&lt;/h3&gt;
+
+&lt;p&gt;Sites that host works in the public domain include&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gutenberg.org/&#34;&gt;Project Gutenberg&lt;/a&gt; texts&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://publicdomainreview.org/&#34;&gt;Public Domain Review&lt;/a&gt; images, books, films, audio, animated GIFs, more&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dp.la/&#34;&gt;Digital Public Library Association&lt;/a&gt; exhibitions and access to collections of all forms&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://commons.wikimedia.org/&#34;&gt;Wikimedia Commons&lt;/a&gt; images, audio, video,&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://archive.org/&#34;&gt;Internet Archive&lt;/a&gt; web sites, images, audio,video, texts, software&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.loc.gov/&#34;&gt;Library of Congress&lt;/a&gt; audio, texts, video, maps, images, software, web sites, 3D objects&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.flickr.com/creativecommons&#34;&gt;Flickr&lt;/a&gt; photos&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.rijksmuseum.nl/&#34;&gt;Rijksmuseum&lt;/a&gt; art images&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://unsplash.com/&#34;&gt;Unsplash&lt;/a&gt; photos&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;educational-and-advocacy-resources-on-the-public-domain&#34;&gt;Educational and advocacy resources on the public domain&lt;/h3&gt;
+
+&lt;p&gt;There are organizations and initiatives work to protect and extending the public domain.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://publicdomainmanifesto.org/&#34;&gt;Public Domain Manifesto&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://web.law.duke.edu/cspd/&#34;&gt;Duke’s Center for the Study on the Public Domain&lt;/a&gt; home of the comic book &lt;a href=&#34;https://web.law.duke.edu/cspd/comics/zoomcomic.html&#34;&gt;Bound by Law&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://publicdomainreview.org/&#34;&gt;Public Domain Review&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://outofcopyright.eu/&#34;&gt;Out of Copyright&lt;/a&gt; - helps users determine when a particular piece of content will enter the public domain.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;application-of-learning&#34;&gt;Application of Learning&lt;/h2&gt;
+
+&lt;h3 id=&#34;learner-toolkit&#34;&gt;Learner Toolkit&lt;/h3&gt;
+
+&lt;p&gt;Select two or three resources directly relevant to your personal or work-related CC needs from the Acquiring Essential Knowledge content and add them to your personal Creative Commons toolkit. Adding them to your toolkit makes them easy to find and use when the need arises, and makes it easy for you to pass on resources you consider important to others. Annotate the resources with notes explaining why they are relevant and important for you and your work.&lt;/p&gt;
+
+&lt;h3 id=&#34;community-collaboration-appreciation-recognition-gratitude&#34;&gt;Community - Collaboration, Appreciation, Recognition, Gratitude&lt;/h3&gt;
+
+&lt;p&gt;In the CC Certificate social forum post your answers to the personal reflection questions posed at the start of this learning unit. Identify and comment on posts from at least two others who have similar needs or ideas.&lt;/p&gt;
+
+&lt;h3 id=&#34;applied-practice&#34;&gt;Applied Practice&lt;/h3&gt;
+
+&lt;p&gt;Complete the following activity in the Quest Bank:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://quests.creativecommons.org/assignments/all-too-true&#34;&gt;All Too True&lt;/a&gt; - make a case for keeping works in the public domain by writing a letter to your government representatives.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/cc-by-sa-88x31.png&#34; alt=&#34;Creative Commons Attribution-ShareAlike license&#34; title=&#34;CC BY-SA&#34; /&gt;
+Licensed under a &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike license (CC BY-SA) version 4.0&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Except where otherwise noted, this content is published under a &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;CC BY-SA license&lt;/a&gt;, which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+License details: &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;https://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Creative Commons Certificates have been created with the kind support of &lt;a href=&#34;http://creativecommons.org/&#34;&gt;Creative Commons&lt;/a&gt;, the &lt;a href=&#34;https://www.imls.gov/&#34;&gt;Institute of Museum and Library Services&lt;/a&gt;, and the &lt;a href=&#34;http://www.gatesfoundation.org/&#34;&gt;Bill &amp;amp; Melinda Gates Foundation&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>The Creative Commons Organization</title>
+      <title>CC as an Organization in the Commons</title>
       <link>https://cogdog.github.io/cc-cert-hugo/commons/creative-commons/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Apr 2017 15:53:02 -0700</pubDate>
       
       <guid>https://cogdog.github.io/cc-cert-hugo/commons/creative-commons/</guid>
       <description>
@@ -496,15 +845,15 @@ Informatics Professional) PDF by  &lt;a href=&#34;http://benkler.org&#34;&gt;Yoc
 
 &lt;p&gt;What if we combined that means with the power of the Internet and digital technology making it possible to share resources globally for the near marginal cost of $0?&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-map/img/core/cc-logo.png&#34; alt=&#34;Creative Commons&#34; title=&#34;Creative Commons&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/cc-logo.png&#34; alt=&#34;Creative Commons&#34; title=&#34;Creative Commons&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://creativecommons.org/about/downloads/&#34;&gt;Creative Commons Logo&lt;/a&gt; image by &lt;a href=&#34;https://creativecommons.org&#34;&gt;Creative Commons&lt;/a&gt;  is licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;CC-BY&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;&lt;a href=&#34;https://creativecommons.org/about/downloads/&#34;&gt;Creative Commons Logo&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://creativecommons.org&#34;&gt;Creative Commons&lt;/a&gt; is licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;CC-BY&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://creativecommons.org&#34;&gt;Creative Commons&lt;/a&gt; does this very thing. Created as a US non-profit in 2002 and now with a global network, Creative Commons provides legal and technical infrastructure that helps creators legally share their knowledge and creativity to build a more equitable, accessible, and innovative world. Creative Commons licenses and digital tools, combined with the Internet, are driving new forms of development, growth and productivity.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-map/img/core/cc-staff.jpg&#34; alt=&#34;Creative Commons Staff Berlin 17-Nov-2016&#34; title=&#34;Creative Commons Staff Berlin 17-Nov-2016&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/cc-staff.jpg&#34; alt=&#34;Creative Commons Staff Berlin 17-Nov-2016&#34; title=&#34;Creative Commons Staff Berlin 17-Nov-2016&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;&lt;a href=&#34;hhttps://drive.google.com/file/d/0B8IKbRz-8utNR253c2syOUFEV0E/view?usp=sharing&#34;&gt;Creative Commons Staff Berlin 17-Nov-2016&lt;/a&gt; photo is licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;CC-BY&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;&lt;a href=&#34;https://drive.google.com/file/d/0B8IKbRz-8utNR253c2syOUFEV0E/view?usp=sharing&#34;&gt;Creative Commons Staff Berlin 17-Nov-2016&lt;/a&gt;&amp;rdquo; photo is licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;CC-BY&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;learning-outcomes&#34;&gt;Learning Outcomes&lt;/h2&gt;
 
@@ -525,7 +874,7 @@ Informatics Professional) PDF by  &lt;a href=&#34;http://benkler.org&#34;&gt;Yoc
 
 &lt;h3 id=&#34;introduction-to-creative-commons&#34;&gt;Introduction to Creative Commons&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-map/img/core/cc-programs.jpg&#34; alt=&#34;Our Programs screen shot from Creative Commons web site&#34; title=&#34;Our Programs screen shot from Creative Commons web site&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/cc-programs.jpg&#34; alt=&#34;Our Programs screen shot from Creative Commons web site&#34; title=&#34;Our Programs screen shot from Creative Commons web site&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://creativecommons.org/about/&#34;&gt;Our Programs screen shot from Creative Commons web site&lt;/a&gt; screenshot  is licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;CC-BY&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
@@ -541,9 +890,9 @@ Informatics Professional) PDF by  &lt;a href=&#34;http://benkler.org&#34;&gt;Yoc
 
 &lt;p&gt;Browse through the &lt;a href=&#34;https://creativecommons.org/blog&#34;&gt;Creative Commons news blog&lt;/a&gt; to read stories from around the world of how people and organizations are using Creative Commons to generate personal and public good. The annual &lt;a href=&#34;https://stateof.creativecommons.org&#34;&gt;State of the Commons report&lt;/a&gt; provides data on size, growth, and vibrancy of the Commons.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-map/img/core/cc-state-commons.jpg&#34; alt=&#34;2015 State of the Commons screen shot from Creative Commons web site&#34; title=&#34;2015 State of the Commons screen shot&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/cc-state-commons.jpg&#34; alt=&#34;2015 State of the Commons screen shot from Creative Commons web site&#34; title=&#34;2015 State of the Commons screen shot&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://stateof.creativecommons.org/2015&#34;&gt;2015 State of the Commons screen shot&lt;/a&gt; screenshot is licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;CC-BY&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;&lt;a href=&#34;https://stateof.creativecommons.org/2015&#34;&gt;2015 State of the Commons screen shot&lt;/a&gt;&amp;rdquo; screenshot is licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;CC-BY&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;creative-commons-tools-and-resources&#34;&gt;Creative Commons Tools and Resources&lt;/h3&gt;
 
@@ -563,7 +912,7 @@ Informatics Professional) PDF by  &lt;a href=&#34;http://benkler.org&#34;&gt;Yoc
 
 &lt;h3 id=&#34;learner-toolkit&#34;&gt;Learner Toolkit&lt;/h3&gt;
 
-&lt;p&gt;Select at least 2 or 3 resources directly relevant to your personal or work related CC needs from the Acquiring Basic Knowledge content and add them to your personal Creative Commons toolkit &lt;a href=&#34;#&#34;&gt;link tba&lt;/a&gt;. Adding them to your toolkit makes it easy to find and use them when the need arises and makes it easy for you to pass on resources you consider important to others. Add comments explaining relevancy and importance.&lt;/p&gt;
+&lt;p&gt;Select at least 2 or 3 resources directly relevant to your personal or work related CC needs from the Acquiring Basic Knowledge content and add them to your personal Creative Commons toolkit. Adding them to your toolkit makes it easy to find and use them when the need arises and makes it easy for you to pass on resources you consider important to others. Add comments explaining relevancy and importance.&lt;/p&gt;
 
 &lt;h3 id=&#34;community-collaboration-appreciation-recognition-gratitude&#34;&gt;Community - Collaboration, Appreciation, Recognition, Gratitude&lt;/h3&gt;
 
@@ -571,7 +920,7 @@ Informatics Professional) PDF by  &lt;a href=&#34;http://benkler.org&#34;&gt;Yoc
 
 &lt;p&gt;Sign up for at least two means of connecting with Creative Commons such as following on Twitter, joining mailing lists of interest, subscribing to the Creative Commons newsletter, and joining the Creative Commons Slack channel.&lt;/p&gt;
 
-&lt;p&gt;From the Creative Commons news blog, Facebook page, Twitter stream and web pages identify at least two other people or organizations who are using Creative Commons in a similar way you or your organization do or want to do. Note these people or organizations in your Toolkit along with questions you might have for them in concerning advice or lessons learned.&lt;/p&gt;
+&lt;p&gt;From the &lt;a href=&#34;https://creativecommons.org/blog/&#34;&gt;Creative Commons news blog&lt;/a&gt;, &lt;a href=&#34;https://www.facebook.com/creativecommons&#34;&gt;Facebook page&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/creativecommons&#34;&gt;Twitter stream&lt;/a&gt; and &lt;a href=&#34;https://creativecommons.org/&#34;&gt;web pages&lt;/a&gt; identify at least two other people or organizations who are using Creative Commons in a similar way you or your organization do or want to do. Note these people or organizations in your Toolkit along with questions you might have for them in concerning advice or lessons learned.&lt;/p&gt;
 
 &lt;h3 id=&#34;applied-practice&#34;&gt;Applied Practice&lt;/h3&gt;
 
@@ -579,7 +928,239 @@ Informatics Professional) PDF by  &lt;a href=&#34;http://benkler.org&#34;&gt;Yoc
 
 &lt;p&gt;Using the links to the platforms on the &lt;a href=&#34;https://creativecommons.org/share-your-work/&#34;&gt;Share Your Work&lt;/a&gt; page or the &lt;a href=&#34;http://search.creativecommons.org/&#34;&gt;Creative Commons Search tool&lt;/a&gt; find and list in your Toolkit two or three resources that are representative of the kinds of creative works you said you would seek in Personal Reflections. Document the name of the resource, its url, identity of the creator, and Creative Commons license used. Make a comment beside each on how you might make use of it.&lt;/p&gt;
 
+&lt;p&gt;Complete the following activity in the Quest Bank.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://quests.creativecommons.org/assignments/explain-what-creative-commons-is&#34;&gt;Explain What Creative Commons Is&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;p&gt;&lt;strong&gt;Bonus applied practice:&lt;/strong&gt; Join Creative Commons global network. (note this activity will be relevant once the new global network strategy of CC is deployed.)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/cc-by-sa-88x31.png&#34; alt=&#34;Creative Commons Attribution-ShareAlike license&#34; title=&#34;CC BY-SA&#34; /&gt;
+Licensed under a &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike license (CC BY-SA) version 4.0&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Except where otherwise noted, this content is published under a &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;CC BY-SA license&lt;/a&gt;, which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+License details: &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;https://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Creative Commons Certificates have been created with the kind support of &lt;a href=&#34;http://creativecommons.org/&#34;&gt;Creative Commons&lt;/a&gt;, the &lt;a href=&#34;https://www.imls.gov/&#34;&gt;Institute of Museum and Library Services&lt;/a&gt;, and the &lt;a href=&#34;http://www.gatesfoundation.org/&#34;&gt;Bill &amp;amp; Melinda Gates Foundation&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exceptions and Limitations of Copyright</title>
+      <link>https://cogdog.github.io/cc-cert-hugo/copyright/exceptions-limitations/</link>
+      <pubDate>Mon, 17 Apr 2017 15:46:44 -0700</pubDate>
+      
+      <guid>https://cogdog.github.io/cc-cert-hugo/copyright/exceptions-limitations/</guid>
+      <description>
+
+&lt;p&gt;Known in some parts of the world as &amp;ldquo;fair use&amp;rdquo; or &amp;ldquo;fair dealing&amp;rdquo;, the limitations and exceptions built into copyright were designed to allow exceptions for certain kinds of uses such as criticism, parody, scholarship, and research.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-big-question&#34;&gt;The Big Question&lt;/h2&gt;
+
+&lt;p&gt;Imagine going to Google to settle a dispute between yourself and a friend about some bit of trivia. You type in your search query, and Google comes up empty. Completely empty.&lt;/p&gt;
+
+&lt;p&gt;“What is going on?”, you wonder.&lt;/p&gt;
+
+&lt;p&gt;Only then do you hear a news update on the television saying something about Google and copyright. As you listen more intently, you learn that the U.S. Supreme Court has required Google to delete its entire web index - because it never entered into copyright agreements with each individual author of each individual page on the web. This means that, by copying a page into their index and showing you a snippet of that page in their search results, Google has been violating the copyrights of hundreds of millions of people. The ruling means that every other search engine based in the United States - Yahoo, Bing, and others - will be going offline immediately as well.&lt;/p&gt;
+
+&lt;p&gt;Fortunately, this court ruling has &lt;strong&gt;not&lt;/strong&gt; happened.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/copyright/parody-not-infringement.jpg&#34; alt=&#34;Parody Is Not Infringement&#34; title=&#34;Parody Is Not Infringement&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;ldquo;&lt;a href=&#34;https://flickr.com/photos/joegratz/25627356&#34;&gt;Parody Is Not Infringement&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://flickr.com/photos/joegratz&#34;&gt;Joe Gratz&lt;/a&gt; licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by-nc/2.0/&#34;&gt;CC BY-NC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;As you will find in the &lt;a href=&#34;public-domain.md&#34;&gt;Public Domain unit&lt;/a&gt;, before copyright, all creative works were in the public domain. When legislators created copyright protections, they realized that allowing copyright to restrict all uses of creative works would be highly problematic.&lt;/p&gt;
+
+&lt;p&gt;For example, how could scholars or critics write about plays, books, movies, or other art without quoting from them? (It would be extremely difficult.) And would copyright holders be inclined to provide licenses to people whose reviews might be negative? (Probably not.)&lt;/p&gt;
+
+&lt;p&gt;For this and a range of other reasons, when the copyright was established it explicitly declined to protect creative works from some kinds of uses - including criticism, parody, scholarship, and research. In general, these types of uses of copyrighted content that do not violate the exclusive rights of the author are known as limitations and exceptions to copyright.&lt;/p&gt;
+
+&lt;p&gt;Of particular interest are the flexible legal doctrines of &lt;a href=&#34;https://www.copyright.gov/fair-use/more-info.html&#34;&gt;“fair use”&lt;/a&gt; (in the United States) or &lt;a href=&#34;https://en.wikipedia.org/wiki/Fair_dealing&#34;&gt;“fair dealing”&lt;/a&gt; (in other parts of the world).&lt;/p&gt;
+
+&lt;h2 id=&#34;learning-outcomes&#34;&gt;Learning Outcomes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Understand definition of limitations and exceptions to copyright&lt;/li&gt;
+&lt;li&gt;Evaluate the application of fair use / fair dealing&lt;/li&gt;
+&lt;li&gt;Differentiate examples of fair use versus licensing&lt;/li&gt;
+&lt;li&gt;Illustrate fair use&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;personal-reflection-why-it-matters-to-you&#34;&gt;Personal Reflection / Why It Matters to You&lt;/h2&gt;
+
+&lt;p&gt;When have you engaged in exercising your rights under a limitation or exception to copyright, such as fair use? Can you recall a time in school when you included properly cited quotations in a research paper you wrote? And how does fair use benefit you (aside from enabling web search engines to exist)?&lt;/p&gt;
+
+&lt;h2 id=&#34;acquiring-essential-knowledge&#34;&gt;Acquiring Essential Knowledge&lt;/h2&gt;
+
+&lt;h3 id=&#34;introduction-to-limitations-and-exceptions-to-copyright&#34;&gt;Introduction to limitations and exceptions to copyright&lt;/h3&gt;
+
+&lt;p&gt;Copyright law grants of a bundle of rights to authors of works. Upon creation of a work, an author receives the right to reproduce, display, perform, and exploit the work. Anyone else must get permission from the author to use the work.&lt;/p&gt;
+
+&lt;p&gt;But to uphold the balance in copyright, there are some uses of copyrighted works which do not require permission or other clearance from the author. These uses are checks on the exclusive rights normally granted to copyright holders, and are often call “limitations and exceptions” to copyright.&lt;/p&gt;
+
+&lt;p&gt;You can think of them as a safety valve for the public in order to be able to utilize copyrighted works for particular uses in the public interest. Some of these uses include for education and research, access for the visually impaired, for criticism and news reporting, and parody.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&#34;https://wikipedia.org/wiki/Limitations_and_exceptions_to_copyright&#34;&gt;Wikipedia’s introduction to this concept&lt;/a&gt;, and explore one of most important types of limitations and exceptions: &lt;a href=&#34;https://wikipedia.org/wiki/Fair_use&#34;&gt;fair use&lt;/a&gt; (and its cousin: &lt;a href=&#34;https://en.wikipedia.org/wiki/Fair_dealing&#34;&gt;fair dealing&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Pay particular attention to the &lt;a href=&#34;http://fairuse.stanford.edu/overview/fair-use/four-factors/&#34;&gt;&amp;ldquo;four factors&amp;rdquo; that go into making a fair use determination&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/copyright/fair-use-4-factors.jpg&#34; alt=&#34;Four Factors for Fair Use&#34; title=&#34;Four Factors for Fair Use&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;from &amp;ldquo;&lt;a href=&#34;http://www.arl.org/storage/documents/arl-fuw-infographic-r4.pdf&#34;&gt;Fair Use Fundamentals&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;http://www.arl.org&#34;&gt;Association of Research Librarians&lt;/a&gt; licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;CC BY&lt;/a&gt; This infographic is specific to the United States. Exceptions and limitations differ around the world.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Read over the &lt;a href=&#34;https://www.teachingcopyright.org/handout/fair-use-faq.html&#34;&gt;Teaching Copyright FAQ on fair use&lt;/a&gt;. Check out the &lt;a href=&#34;http://www.arl.org/storage/documents/arl-fuw-infographic-r4.pdf&#34;&gt;Fair Use Fundamentals infographic from the Association of Research Librarians&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Watch the creative educational fair use mashup &lt;a href=&#34;http://cyberlaw.stanford.edu/blog/2007/03/fairy-use-tale&#34;&gt;&amp;ldquo;A Fair(y) Use Tale&amp;rdquo;&lt;/a&gt; which ironically makes use of mixes of clips from Disney films.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=CJn_jC4FNDo&#34;&gt;https://www.youtube.com/watch?v=CJn_jC4FNDo&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;ldquo;&lt;a href=&#34;http://cyberlaw.stanford.edu/blog/2007/03/fairy-use-tale&#34;&gt;A Fair(y) Use Tale&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;http://www.facstaff.bucknell.edu/efaden/&#34;&gt;Eric Faden&lt;/a&gt; is licensed under &lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;CC BY-NC-SA&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;differences-between-limitations-and-exceptions-vs-open-licensing&#34;&gt;Differences between Limitations and Exceptions vs Open Licensing&lt;/h3&gt;
+
+&lt;p&gt;Users who wish to engage with copyrighted content under an approved limitation or exception to copyright may do so regardless of whether the work is available under an open license, such as a Creative Commons license. Read the &lt;a href=&#34;https://creativecommons.org/faq/#do-creative-commons-licenses-affect-exceptions-and-limitations-to-copyright-such-as-fair-dealing-and-fair-use&#34;&gt;Creative Commons FAQ&lt;/a&gt; to understand this issue in more detail.&lt;/p&gt;
+
+&lt;h3 id=&#34;resources-on-limitations-and-exceptions-to-copyright&#34;&gt;Resources on limitations and exceptions to copyright&lt;/h3&gt;
+
+&lt;p&gt;The are many websites, digital resources, and initiatives that aim to explain and advocate for limitations and exceptions to copyright, including the &lt;a href=&#34;http://pijip-impact.org/fairuse/publications/&#34;&gt;Center for Social Media’s Codes of Best Practice in Fair Use series&lt;/a&gt;, the annual &lt;a href=&#34;http://fairuseweek.org/&#34;&gt;Fair Use Week campaign&lt;/a&gt;, and even &lt;a href=&#34;http://copyrightexceptions.eu/&#34;&gt;an interactive website that shows the fragmented puzzle of limitations and exceptions&lt;/a&gt; adopted by European countries.&lt;/p&gt;
+
+&lt;p&gt;Different countries have different limitations and exceptions. There are &lt;a href=&#34;http://oerpolicy.eu/oer-and-copyright-mapping-exempted-uses-in-europe/&#34;&gt;global discussions around how to harmonize them&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/copyright/depends-on-location.png&#34; alt=&#34;Educational Resources and Copyright Exceptions and Limitations&#34; title=&#34;Educational Resources and Copyright Exceptions and Limitations&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;image from &amp;ldquo;&lt;a href=&#34;http://oerpolicy.eu/our-new-report-on-educational-resources-end-copyright-exceptions-and-limitations/&#34;&gt;Our new report on Educational Resources and Copyright Exceptions and Limitations&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;http://oerpolicy.eu/&#34;&gt;Open Educational Resources Policy in Europe&lt;/a&gt; licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;CC BY&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;application-of-learning&#34;&gt;Application of Learning&lt;/h2&gt;
+
+&lt;h3 id=&#34;learner-toolkit&#34;&gt;Learner Toolkit&lt;/h3&gt;
+
+&lt;p&gt;Select two or three resources directly relevant to your personal or work-related CC needs from the Acquiring Essential Knowledge content and add them to your personal Creative Commons toolkit. Adding them to your toolkit makes them easy to find and use when the need arises, and makes it easy for you to pass on resources you consider important to others. Annotate the resources with notes explaining why they are relevant and important for you and your work.&lt;/p&gt;
+
+&lt;h3 id=&#34;community-collaboration-appreciation-recognition-gratitude&#34;&gt;Community - Collaboration, Appreciation, Recognition, Gratitude&lt;/h3&gt;
+
+&lt;p&gt;In the CC Certificate social forum post your answers to the personal reflection questions posed at the start of this learning unit. Identify and comment on posts from at least two others who have similar needs or ideas.&lt;/p&gt;
+
+&lt;h3 id=&#34;applied-practice&#34;&gt;Applied Practice&lt;/h3&gt;
+
+&lt;p&gt;Complete one or more of the following activities in the Quest Bank:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://quests.creativecommons.org/assignments/copyright-decision-tree&#34;&gt;Copyright Decision Tree&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://quests.creativecommons.org/assignments/fair-use-free-for-all&#34;&gt;Fair Use Free For All&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/cc-by-sa-88x31.png&#34; alt=&#34;Creative Commons Attribution-ShareAlike license&#34; title=&#34;CC BY-SA&#34; /&gt;
+Licensed under a &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike license (CC BY-SA) version 4.0&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Except where otherwise noted, this content is published under a &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;CC BY-SA license&lt;/a&gt;, which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+License details: &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;https://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Creative Commons Certificates have been created with the kind support of &lt;a href=&#34;http://creativecommons.org/&#34;&gt;Creative Commons&lt;/a&gt;, the &lt;a href=&#34;https://www.imls.gov/&#34;&gt;Institute of Museum and Library Services&lt;/a&gt;, and the &lt;a href=&#34;http://www.gatesfoundation.org/&#34;&gt;Bill &amp;amp; Melinda Gates Foundation&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Global Aspects of Copyright</title>
+      <link>https://cogdog.github.io/cc-cert-hugo/copyright/global/</link>
+      <pubDate>Mon, 17 Apr 2017 15:47:03 -0700</pubDate>
+      
+      <guid>https://cogdog.github.io/cc-cert-hugo/copyright/global/</guid>
+      <description>
+
+&lt;p&gt;Copyright laws are defined by countries yet we operate in a world where media is global in reach. Complexity ensues.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/copyright/vvgvlh1d10u-slava-bowman.jpg&#34; alt=&#34;Hidden Behind Globe&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://unsplash.com/photos/VVgVlH1D10U&#34;&gt;Photo&lt;/a&gt; placed into the public domain by &lt;a href=&#34;https://unsplash.com/@slavab&#34;&gt;Slava Bowman&lt;/a&gt; using &lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/&#34;&gt;CC0&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-big-question&#34;&gt;The Big Question&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0056923/&#34;&gt;Charade&lt;/a&gt;&lt;/strong&gt; is a classic American film starring Audrey Hepburn and Cary Grant that opened in 1963. Breaking ground as a movie spanning three genres - thriller, romance, and comedy - the film is notable for another important reason.&lt;/p&gt;
+
+&lt;p&gt;Because Universal Pictures published the movie with an invalid copyright notice, &lt;a href=&#34;https://wikipedia.org/wiki/Charade_(1963_film)#Public_domain_status&#34;&gt;the film entered the public domain in the United States immediately upon its release&lt;/a&gt; (wikipedia). Because the film is in the public domain, you can watch it online in its entirety &lt;a href=&#34;https://en.wikipedia.org/wiki/File:Charade_(1963).webm&#34;&gt;from Wikipedia&lt;/a&gt; as well as YouTube&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=V7s0H9Qz168&#34;&gt;https://www.youtube.com/watch?v=V7s0H9Qz168&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;ldquo;&lt;a href=&#34;https://www.youtube.com/watch?v=V7s0H9Qz168&#34;&gt;Charade 1963 720p Full Movie&amp;rdquo;&lt;/a&gt;&amp;rdquo; is shared into the public domain&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Should a technicality like this prevent a major motion picture from being protected by copyright? What if the technicalities for providing the copyright notice differed from country to country? Wouldn’t things be easier for everyone involved if the process for getting copyright protection was simplified and harmonized across countries? Are there valid reasons for copyright to differ from country to country?&lt;/p&gt;
+
+&lt;h2 id=&#34;learning-outcomes&#34;&gt;Learning Outcomes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Give examples of international copyright baselines (e.g. Berne Convention)&lt;/li&gt;
+&lt;li&gt;Understand moral rights and other rights situated alongside copyright&lt;/li&gt;
+&lt;li&gt;Understand local copyright&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;personal-reflection-why-it-matters-to-you&#34;&gt;Personal Reflection / Why It Matters to You&lt;/h2&gt;
+
+&lt;p&gt;Have you ever missed an important opportunity because of a technicality? Maybe you misread the directions on an important test? Or maybe you didn’t format the resume you submitted for a job exactly the way the employer asked? Have you ever wished that things could just be simpler?&lt;/p&gt;
+
+&lt;p&gt;Have you ever told someone “be careful what you wish for?”&lt;/p&gt;
+
+&lt;h2 id=&#34;acquiring-essential-knowledge&#34;&gt;Acquiring Essential Knowledge&lt;/h2&gt;
+
+&lt;h3 id=&#34;introduction-to-a-global-copyright-system&#34;&gt;Introduction to a global copyright system&lt;/h3&gt;
+
+&lt;p&gt;Watch the YouTube video from #FixCopyright to understand the basic history of copyright and its relation to creativity and sharing.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0fdUDecJ6jc&#34;&gt;https://www.youtube.com/watch?v=0fdUDecJ6jc&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;ldquo;&lt;a href=&#34;https://www.youtube.com/watch?v=0fdUDecJ6jc&#34;&gt;#FixCopyright: Copy (aka copyright) Tells the Story of His Life&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://www.youtube.com/channel/UCqIxBYe-_0ubkx3LlyyNPhA&#34;&gt;FixCopyright&lt;/a&gt; is licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/3.0&#34;&gt;CC BY&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;While copyright law was originally tailored to local laws and customs, over the years there has been harmonisation of copyright provisions&amp;ndash;meaning that most copyright law is quite similar in most of the world. This has taken place through the ratification and implementation of international copyright treaties and agreements. Read up on these agreements, such as the &lt;a href=&#34;www.wipo.int&#34;&gt;World Intellectual Property Organisation’s (WIPO)&lt;/a&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/Berne_Convention&#34;&gt;Berne Convention&lt;/a&gt;, and the &lt;a href=&#34;https://www.wto.org/&#34;&gt;World Trade Organisation’s&lt;/a&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/TRIPS_Agreement&#34;&gt;TRIPS Agreement&lt;/a&gt;. Explore the role of &lt;a href=&#34;www.wipo.int&#34;&gt;WIPO&lt;/a&gt; in international copyright policymaking, including a recently-ratified treaty on &lt;a href=&#34;http://www.wipo.int/pressroom/en/briefs/limitations.html&#34;&gt;access to copyright works for the visually impaired&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/copyright/berne-convention.png&#34; alt=&#34;The signatories of the Berne Convention for the Protection of Literary and Artistic Works&#34; title=&#34;The signatories of the Berne Convention for the Protection of Literary and Artistic Works&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;ldquo;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Berne_Convention.png&#34;&gt;The signatories of the Berne Convention for the Protection of Literary and Artistic Works&lt;/a&gt; as of 2012&amp;rdquo; licensed  &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/3.0/&#34;&gt;CC BY-SA&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;features-common-to-copyright-today&#34;&gt;Features common to copyright today&lt;/h3&gt;
+
+&lt;p&gt;Through the ratification of international copyright agreements, &amp;ldquo;&lt;a href=&#34;https://en.wikipedia.org/wiki/Copyright_formalities&#34;&gt;copyright formalities&lt;/a&gt;&amp;rdquo; have been mostly harmonised.&lt;/p&gt;
+
+&lt;p&gt;Copyright formalities are legal requirements that an author needs to undertake in order to receive copyright protection for a work they create. Review several of these copyright formalities, including registration, renewal, notice, and deposit.&lt;/p&gt;
+
+&lt;p&gt;From country to country, the duration of copyright is also quite similar. Review the Wikipedia pages on &lt;a href=&#34;https://en.wikipedia.org/wiki/Copyright_term&#34;&gt;copyright term&lt;/a&gt;, and view the page that lists the the duration of copyright based on country.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/copyright/world-copyright-terms.png&#34; alt=&#34;World Copyright Terms&#34; title=&#34;World Copyright Terms&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;ldquo;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:World_copyright_terms.svg&#34;&gt;World Copyright Terms&lt;/a&gt;&amp;rdquo; by Balfour Smith licensed  &lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;CC BY&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;There are types of rights that operate in parallel with copyright. One of these is moral rights, which are generally understood as a right of attribution above and beyond intellectual property rights. &lt;a href=&#34;https://en.wikipedia.org/wiki/Moral_rights&#34;&gt;Read about moral rights&lt;/a&gt; to understand how it is different than copyright.&lt;/p&gt;
+
+&lt;h2 id=&#34;application-of-learning&#34;&gt;Application of Learning&lt;/h2&gt;
+
+&lt;h3 id=&#34;learner-toolkit&#34;&gt;Learner Toolkit&lt;/h3&gt;
+
+&lt;p&gt;Select at least 2 or 3 resources directly relevant to your personal or work related CC needs from the Acquiring Basic Knowledge content and add them to your personal Creative Commons toolkit. Adding them to your toolkit makes it easy to find and use them when the need arises and makes it easy for you to pass on resources you consider important to others. Add comments explaining relevancy and importance.&lt;/p&gt;
+
+&lt;h3 id=&#34;community-collaboration-appreciation-recognition-gratitude&#34;&gt;Community - Collaboration, Appreciation, Recognition, Gratitude&lt;/h3&gt;
+
+&lt;p&gt;In the CC Certificate social forum post your answers to the personal reflection questions posed at the start of this learning unit. Identify and comment on posts from at least two others who have similar needs or ideas.&lt;/p&gt;
+
+&lt;h3 id=&#34;applied-practice&#34;&gt;Applied Practice&lt;/h3&gt;
+
+&lt;p&gt;Complete the following activity in the Quest Bank:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://quests.creativecommons.org/assignments/where-is-your-country&#34;&gt;Where is your country on global copyright map?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/cc-by-sa-88x31.png&#34; alt=&#34;Creative Commons Attribution-ShareAlike license&#34; title=&#34;CC BY-SA&#34; /&gt;
+Licensed under a &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike license (CC BY-SA) version 4.0&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Except where otherwise noted, this content is published under a &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;CC BY-SA license&lt;/a&gt;, which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+License details: &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;https://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Creative Commons Certificates have been created with the kind support of &lt;a href=&#34;http://creativecommons.org/&#34;&gt;Creative Commons&lt;/a&gt;, the &lt;a href=&#34;https://www.imls.gov/&#34;&gt;Institute of Museum and Library Services&lt;/a&gt;, and the &lt;a href=&#34;http://www.gatesfoundation.org/&#34;&gt;Bill &amp;amp; Melinda Gates Foundation&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     

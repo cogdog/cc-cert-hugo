@@ -1,14 +1,17 @@
-baseURL = "https://cogdog.github.io/cc-cert-hugo/"
 title = "CC Core Certification"
+baseURL = "https://cogdog.github.io/cc-cert-hugo/"
 languageCode = "en-us"
 theme = "hugo-theme-learn"
 publishDir = "docs"
 canonifyURLs = true
 
-[params]
 
+[params]
 description = "Demo for CC Certification rendered via md"
+autoNav = true
 
 [author]
-  author = "Alan Levine"
-  homepage = "http://cogdog.github.io/"
+author = "Alan Levine"
+homepage = "http://cogdog.github.io/"
+
+

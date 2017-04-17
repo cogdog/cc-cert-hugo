@@ -11,7 +11,7 @@
 
 
 /* Background color of the menu, when clicked */
-#sidebar ul.topics > li.parent, #sidebar ul.topics > li.active {
+#sidebar ul.extras > li.parent, #sidebar ul.extras > li.active {
   background-color: #666;
 }
 
@@ -23,3 +23,38 @@ a {
 a:hover {
    color: #049ccf;
 }
+
+#sidebar ul.extras {
+    margin: 2rem 1rem 0;
+    border-top: 1px #fff solid;
+}
+
+#sidebar ul.extras ul {
+    display: none;
+    padding-bottom: 1rem;
+}
+#sidebar ul.extras ul ul {
+    padding-bottom: 0;
+}
+#sidebar ul.extras li.parent ul, #sidebar ul.extras > li.active ul {
+    display: block;
+}
+#sidebar ul.extras > li > a {
+    line-height: 2rem;
+    font-size: 1.1rem;
+}
+#sidebar ul.extras > li > a b {
+    opacity: 0.5;
+    font-weight: normal;
+}
+#sidebar ul.extras > li > a .fa {
+    margin-top: 9px;
+}
+
+#sidebar ul.extras > li.parent, #sidebar ul.extras > li.active {
+    background: #251f29;
+    margin-left: -1rem;
+    margin-right: -1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+} 
