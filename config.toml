@@ -1,5 +1,5 @@
-title = "CC Core Certification"
-baseURL = "https://cogdog.github.io/cc-cert-hugo/"
+title = "Creative Commons Core Certificate"
+baseURL = "https://cogdog.github.io/cc-cert-hugo"
 languageCode = "en-us"
 theme = "hugo-theme-learn"
 publishDir = "docs"
@@ -9,6 +9,10 @@ canonifyURLs = true
 [params]
 description = "Demo for CC Certification rendered via md"
 autoNav = true
+ghrepo = "https://github.com/creativecommons/cc-cert-core"
+ghname = "CORE Release Alpha 1"
+ghvers = "v0.2.3"
+ghdate = "Mar 06, 2017"
 
 [author]
 author = "Alan Levine"
