@@ -49,7 +49,12 @@ If you could freely access creative works what kinds of works would you seek? Bo
 
 For a brief introduction to Creative Commons as an organization explore the [About](https://creativecommons.org/about/) and [Share Your Work](https://creativecommons.org/share-your-work) sections of Creative Commons web site. Watch the “Wanna Work Together” video on the Share Your Work page.
 
-https://vimeo.com/13590841
+{{< vimeo 13590841 >}}
+
+ *"[Wanna Work Together?](https://vimeo.com/13590841)" 
+ by [Creative Commons](https://vimeo.com/creativecommonsvideos) 
+ is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0)*
+
 
 ### Vision, Mission, Goals, Program Areas
 To learn about Creative Commons vision, mission, goals, and program areas review the[Program Areas](https://creativecommons.org/about/program-areas/) section of the Creative Commons web site.
@@ -103,13 +108,4 @@ Complete the following activity in the Quest Bank.
 
 **Bonus applied practice:** Join Creative Commons global network. (note this activity will be relevant once the new global network strategy of CC is deployed.)
 
-----
-
-![Creative Commons Attribution-ShareAlike license](https://creativecommons.github.io/cc-cert-core/images/cc-by-sa-88x31.png "CC BY-SA")
-Licensed under a [Creative Commons Attribution-ShareAlike license (CC BY-SA) version 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
-Except where otherwise noted, this content is published under a [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/), which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-License details: https://creativecommons.org/licenses/by-sa/4.0/
-
-*Creative Commons Certificates have been created with the kind support of [Creative Commons](http://creativecommons.org/), the [Institute of Museum and Library Services](https://www.imls.gov/), and the [Bill &amp; Melinda Gates Foundation](http://www.gatesfoundation.org/).*
 

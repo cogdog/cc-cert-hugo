@@ -3,12 +3,11 @@ date = "2017-04-17T15:45:18-07:00"
 toc = true
 weight = 1
 title = "Copyright Basics"
-
 +++
 
 Is copyright a bit fuzzy to you? Get some clarity by understanding it's history and purpose.
 
-![Fuzzy Copyright](https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/copyright-fuzzy.jpg "Fuzzy Copyright")
+![Fuzzy Copyright](https://creativecommons.github.io/cc-cert-core/images/copyright/copyright-fuzzy.jpg "Fuzzy Copyright")
 
 *"[Fuzzy Copyright](https://www.flickr.com/photos/pugno_muliebriter/1384247192/)" by [Nancy Sims](https://www.flickr.com/photos/pugno_muliebriter/) licensed under [CC BY-NC](https://creativecommons.org/licenses/by-nc/2.0/)*
 
@@ -18,7 +17,7 @@ Generally speaking, people are willing to invest time and effort in projects tha
 
 The law makes it a crime for someone to sneak into the garden overnight and steal away the harvest the gardener has toiled for all summer long. Likewise, copyright laws make it a crime for someone to copy and sell an author’s book without their permission, denying them the income they labored to receive. Considered in this context, how do copyright laws promote the creation of things like books, movies, and songs?
 
-![herbs & spices that burn my tongue...](https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/spices.jpg "herbs & spices that burn my tongue...")
+![herbs & spices that burn my tongue...](https://creativecommons.github.io/cc-cert-core/images/copyright/spices.jpg "herbs & spices that burn my tongue...")
 
 *"[herbs & spices that burn my tongue...](https://www.flickr.com/photos/erikpoehler/5467004374/)" by [Erik Pöhler](https://www.flickr.com/photos/erikpoehler/) licensed under [CC BY](https://creativecommons.org/licenses/by/2.0/)*
 
@@ -85,13 +84,4 @@ Complete the following activity in the Quest Bank:
 
 * [How Does Copyright Encourage Creativity?](https://quests.creativecommons.org/assignments/how-does-copyright)
 
-----
-
-![Creative Commons Attribution-ShareAlike license](https://creativecommons.github.io/cc-cert-core/images/cc-by-sa-88x31.png "CC BY-SA")
-Licensed under a [Creative Commons Attribution-ShareAlike license (CC BY-SA) version 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
-Except where otherwise noted, this content is published under a [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/), which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-License details: https://creativecommons.org/licenses/by-sa/4.0/
-
-*Creative Commons Certificates have been created with the kind support of [Creative Commons](http://creativecommons.org/), the [Institute of Museum and Library Services](https://www.imls.gov/), and the [Bill &amp; Melinda Gates Foundation](http://www.gatesfoundation.org/).*
 

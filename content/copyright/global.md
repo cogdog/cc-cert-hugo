@@ -19,8 +19,8 @@ Copyright laws are defined by countries yet we operate in a world where media is
 
 Because Universal Pictures published the movie with an invalid copyright notice, [the film entered the public domain in the United States immediately upon its release](https://wikipedia.org/wiki/Charade_(1963_film)#Public_domain_status) (wikipedia). Because the film is in the public domain, you can watch it online in its entirety [from Wikipedia](https://en.wikipedia.org/wiki/File:Charade_(1963).webm) as well as YouTube
 
-https://www.youtube.com/watch?v=V7s0H9Qz168
-
+{{< youtube V7s0H9Qz168
+ >}}
 *"[Charade 1963 720p Full Movie"](https://www.youtube.com/watch?v=V7s0H9Qz168)" is shared into the public domain*
 
 Should a technicality like this prevent a major motion picture from being protected by copyright? What if the technicalities for providing the copyright notice differed from country to country? Wouldn’t things be easier for everyone involved if the process for getting copyright protection was simplified and harmonized across countries? Are there valid reasons for copyright to differ from country to country?
@@ -44,8 +44,8 @@ Have you ever told someone “be careful what you wish for?”
 
 Watch the YouTube video from #FixCopyright to understand the basic history of copyright and its relation to creativity and sharing. 
 
-https://www.youtube.com/watch?v=0fdUDecJ6jc
-
+{{< youtube 0fdUDecJ6jc
+ >}}
 *"[#FixCopyright: Copy (aka copyright) Tells the Story of His Life](https://www.youtube.com/watch?v=0fdUDecJ6jc)" by [FixCopyright](https://www.youtube.com/channel/UCqIxBYe-_0ubkx3LlyyNPhA) is licensed under [CC BY](https://creativecommons.org/licenses/by/3.0)*
 
 
@@ -84,13 +84,4 @@ Complete the following activity in the Quest Bank:
 * [Where is your country on global copyright map?](https://quests.creativecommons.org/assignments/where-is-your-country)
 
 
-----
-
-![Creative Commons Attribution-ShareAlike license](https://creativecommons.github.io/cc-cert-core/images/cc-by-sa-88x31.png "CC BY-SA")
-Licensed under a [Creative Commons Attribution-ShareAlike license (CC BY-SA) version 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
-Except where otherwise noted, this content is published under a [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/), which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-License details: https://creativecommons.org/licenses/by-sa/4.0/
-
-*Creative Commons Certificates have been created with the kind support of [Creative Commons](http://creativecommons.org/), the [Institute of Museum and Library Services](https://www.imls.gov/), and the [Bill &amp; Melinda Gates Foundation](http://www.gatesfoundation.org/).*
 

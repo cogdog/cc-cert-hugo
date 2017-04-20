@@ -19,7 +19,7 @@ Commons are everywhere - from modern web communities to ancient agrarian communi
 
 You probably participate in one or more commons yourself - and by the time you finish this module you’ll be able to recognize a commons you are part of, describe what makes it a commons, and identify potential threats to the sustainability of your commons.    
 
-!["English Pasture and Wikipedia logo](https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/pasture-wikipedia.jpg "English Pasture and Wikipedia logo")
+![English Pasture and Wikipedia logo](https://creativecommons.github.io/cc-cert-core/images/commons/pasture-wikipedia.jpg "English Pasture and Wikipedia logo")
 
 *Composite of "[Fictional Medieval Manor](https://commons.wikimedia.org/wiki/File:Plan_mediaeval_manor.jpg)" dervivative Wikimedia Commons image by William R. Shepherd (1923) is shared into the [Public Domain](https://en.wikipedia.org/wiki/public_domain) and  "[Wikipedia Logo 1.0](https://commons.wikimedia.org/wiki/File:Wikipedia_Logo_1.0.png)"  Wikimedia Commons image by [Nohat](https://meta.wikimedia.org/wiki/User:Nohat)  licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)*
 
@@ -60,7 +60,7 @@ Many historic commons ended in enclosure, and enclosure continues to be the sing
 
 ## What is Enclosure?
 
-![Enclosure Boundary](https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/hedge-enclosure-boundary.jpg "photo of Enclosure Boundary")
+![Enclosure Boundary](https://creativecommons.github.io/cc-cert-core/images/commons/hedge-enclosure-boundary.jpg "photo of Enclosure Boundary")
 
 *"[NZ0314 : Decaying hedge](http://www.geograph.org.uk/photo/1715089)" by [Andy Waddington](http://www.geograph.org.uk/profile/34816) licensed under [CC-BY-SA](http://creativecommons.org/licenses/by-sa/2.0/) / cropped from original*
 
@@ -87,13 +87,4 @@ Complete the following activity in the Quest Bank:
 
 * [Give an Example of One of Ostrom’s Eight Principles](https://quests.creativecommons.org/assignments/ostroms-eight-principles)
 
-----
-
-![Creative Commons Attribution-ShareAlike license](https://creativecommons.github.io/cc-cert-core/images/cc-by-sa-88x31.png "CC BY-SA")
-Licensed under a [Creative Commons Attribution-ShareAlike license (CC BY-SA) version 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
-Except where otherwise noted, this content is published under a [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/), which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-License details: https://creativecommons.org/licenses/by-sa/4.0/
-
-*Creative Commons Certificates have been created with the kind support of [Creative Commons](http://creativecommons.org/), the [Institute of Museum and Library Services](https://www.imls.gov/), and the [Bill &amp; Melinda Gates Foundation](http://www.gatesfoundation.org/).*
 

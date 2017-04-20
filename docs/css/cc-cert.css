@@ -58,3 +58,37 @@ a:hover {
     padding-left: 1rem;
     padding-right: 1rem;
 } 
+
+
+#credits img {
+    margin: 0 auto;
+}
+
+#credits p {
+    font-size: 1.0rem;
+    line-height: 1.1;
+}
+
+#versfooter {
+    width:80%;
+    margin: 2em auto;
+}
+
+#versfooter .verstitle {
+    padding: 0.5em 4em;
+    background-color: #eee;
+    font-size: 0.9em;
+    color: #999;
+    font-style: italic;
+    text-align: center;
+    margin:0;
+}
+
+#versfooter .versinfo {
+    background-color: #ddd;
+    margin:0;
+    padding: 0.5em 4em;
+    font-size: 0.8em;
+    color: #999;
+    text-align: center;
+}
