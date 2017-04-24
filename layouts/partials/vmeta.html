@@ -1,8 +1,0 @@
-<div id="versfooter">
-	<p class="verstitle">
-		{{.Site.Title}}
-	</p>
-	<p class="versinfo">
-	{{ with .Site.Params.ghname }}{{ . }}{{ end }} <a href="{{ with .Site.Params.ghrepo }}{{ . }}{{ end }}">{{ with .Site.Params.ghvers }}{{ . }}{{ end }}</a> ({{ with .Site.Params.ghdate }}{{ . }}{{ end }})
-	</p>
-</div>
